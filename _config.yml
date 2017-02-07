@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: LEOexit
+title: carEX!T
 description: > # this means to ignore newlines until "baseurl:"
     LEOexit is an initiative that helps people leave the law enforcement and corrections industries
     and build a new life. It is civil society&rsquo;s response to the lack of oversight and undemocratic
@@ -15,10 +15,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Contact values.
-email: BetterAngels@riseup.net
-twitter_username: BetterAngelsCR
-facebook_page: BetterAngelsCollective
-pgp_key_fingerprint: "6121 4D68 E0E3 54AA DE65 3B15 6FAE 063A 2F94 2A02"
+email: start@carexit.org
+email_press: presse@carexit.org
+twitter_username: FahrradBande
+facebook_page: FahrradBande
 
 # Build settings
 markdown: kramdown
+exclude:
+  - Gem*
+  - vendor

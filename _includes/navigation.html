@@ -1,0 +1,39 @@
+<nav class="navbar navbar-default navbar-fixed-top" style="visibility:hidden">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#" class="scroll">
+        <img src="http://placehold.it/25x25" height="25">
+      </a>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav main-nav">
+
+        {% assign pages = site.pages | sort: "order" %}
+        {% for page in pages %}
+          {% if page.title and page.anchor_id != 'home' %}
+            <li>
+              <a href="#{{ page.anchor_id }}" class="scroll">{{ page.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="social-media-button">
+            {% include icon-twitter.html username=site.twitter_username %}
+        </li>
+        <li class="social-media-button">
+            {% include icon-facebook.html username=site.facebook_page %}
+        </li>
+        <li>
+          <a href="https://www.generosity.com/community-fundraising/buoy-empowering-community-based-crisis-response" target="_blank" class="nav-button donate-button">donate</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
