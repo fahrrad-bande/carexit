@@ -8,9 +8,7 @@
 # Site settings
 title: carEX!T
 description: > # this means to ignore newlines until "baseurl:"
-    LEOexit is an initiative that helps people leave the law enforcement and corrections industries
-    and build a new life. It is civil society&rsquo;s response to the lack of oversight and undemocratic
-    practices of law enforcement agencies and the prison industrial complex.
+    carEX!T
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
