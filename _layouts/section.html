@@ -1,11 +1,11 @@
-<section>
-    <a id="{{ page.anchor_id | escape }}" class="anchor"></a>
-    <div class="container">
+<section id="s-{{ include.page.anchor_id }}">
+    <a id="{{ include.page.anchor_id }}" class="anchor"></a>
+    <div class="container landing-container">
         <div class="row">
             <div class="col-xs-12">
-                <h1>{{ page.title }}</h1>
+                <h1>{{ include.page.title }}</h1>
             </div>
         </div>
-        {{ content }}
+        {{ include.page.content }}
     </div>
 </section>

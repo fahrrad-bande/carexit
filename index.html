@@ -3,7 +3,11 @@ layout: default
 ---
 {% assign pages = site.html_pages | sort: "order" %}
 {% for page in pages %}
-  {% if page.title %}
-    {{ page.content }}
+  {% if page.link_title%}
+    {% if page.layout %}
+      {% include_relative _layouts/{{ page.layout }}.html page=page %}
+    {% else %}
+      {{ page.content }}
+    {% endif %}
   {% endif %}
 {% endfor %}

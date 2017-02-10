@@ -16,9 +16,9 @@
 
         {% assign pages = site.pages | sort: "order" %}
         {% for page in pages %}
-          {% if page.title and page.anchor_id != 'home' %}
+          {% if page.link_title and page.anchor_id != 'home' %}
             <li>
-              <a href="#{{ page.anchor_id }}" class="scroll">{{ page.title }}</a>
+              <a href="#{{ page.anchor_id }}" class="scroll">{{ page.link_title }}</a>
             </li>
           {% endif %}
         {% endfor %}
