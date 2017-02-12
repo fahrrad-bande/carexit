@@ -3,9 +3,10 @@ layout: default
 ---
 {% assign pages = site.html_pages | sort: "order" %}
 {% for page in pages %}
-  {% if page.focus %}
+  {% if page.link_title %}
     {% if page.layout %}
-      {% include_relative _layouts/{{ page.layout }}.html page=page %}
+      {% capture class %}{% cycle 'dark', 'bright' %}{% endcapture %}
+      {% include_relative _layouts/{{ page.layout }}.html page=page nr=forloop.index class=class %}
     {% else %}
       {{ page.content }}
     {% endif %}

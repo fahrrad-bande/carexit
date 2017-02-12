@@ -243,14 +243,6 @@ body {
     background-color: #fff
 }
 
-  #how-to-section, #ready-exit-section, #connect-section {
-    background-color: rgba(255, 255, 255, 0.8)
-}
-
- #not-convinced-section, #s-about {
-    background-color: rgba(204, 241, 232, 0.9)
-}
-
 .container {
     margin-top: 0;
     margin-bottom: 0
@@ -315,10 +307,6 @@ h3 {
     display: block;
     padding-bottom: 3px;
     text-transform: uppercase
-}
-
-#faq-section {
-    background-color: rgba(204, 241, 232, 0.9)
 }
 
 .landing-nav ul li {
