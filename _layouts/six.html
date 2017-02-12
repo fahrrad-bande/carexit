@@ -1,10 +1,22 @@
-<div class="row hidden-sm hidden-md hidden-lg visible-xs">
+{% assign splitby = "</h3>" %}
+{% assign questions = include.page.content | split: "<hr />" %}
+<section id="s-{{ include.page.anchor_id }}">
+    <a id="{{ include.page.anchor_id }}" class="anchor"></a>
+    <div class="container landing-container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h1>{{ include.page.title }}</h1>
+            </div>
+        </div>
+
+<!-- <div class="row hidden-sm hidden-md hidden-lg visible-xs">
   <div class="col-xs-12">
     <div class="panel-group" id="panels1">
 
-      {% for question in include.questions %}
+      {% for question in questions %}
+        {% assign title = include.page.content | split: "\n" | first %}
         <div class="panel panel-default">
-          <div class="panel-heading"><h4 class="panel-title"><a data-toggle="collapse" data-parent="#panels1" href="#nc-{{ forloop.index }}">{{ question.title }}</a></h4></div>
+          <div class="panel-heading"><h4 class="panel-title"><a data-toggle="collapse" data-parent="#panels1" href="#nc-{{ forloop.index }}">{{ title }}</a></h4></div>
           <div id="nc-{{ forloop.index }}" class="panel-collapse collapse">
             <div class="panel-body">{{ question.body }}</div>
           </div>
@@ -13,16 +25,17 @@
 
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="row row-items hidden-xs visible-sm visible-md visible-lg">
 
   {% for question in questions %}
+    {% assign q = question | split: splitby %}
     <div class="col-sm-4">
-      <h3>{{ question.title }}</h3>
-      <p>{{ question.body }}</p>
+      {{ q | first | append: splitby }}
+      {{ q | last }}
       <div id="coll-{{ forloop.index }}" class="accordion-body collapse">
-        <div class="accordion-inner"><p>{{ question.body }}</p></div>
+        <div class="accordion-inner">{{ q | last }}</div>
       </div>
       <a data-toggle="collapse" href="#coll-{{ forloop.index }}" class="read-more"><i class="icon-arrow-combo"></i></a>
     </div>
@@ -34,16 +47,5 @@
 
 </div>
 
-
-
-<section id="s-{{ include.page.anchor_id }}">
-    <a id="{{ include.page.anchor_id }}" class="anchor"></a>
-    <div class="container landing-container">
-        <div class="row">
-            <div class="col-xs-12">
-                <h1>{{ include.page.title }}</h1>
-            </div>
-        </div>
-        {{ include.page.content }}
     </div>
 </section>
