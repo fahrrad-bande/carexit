@@ -1,7 +1,6 @@
 ---
 link_title: About
 anchor_id: about
-title: About the program
 order: 2
 layout: section_two
 ---
