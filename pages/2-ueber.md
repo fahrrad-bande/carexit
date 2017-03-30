@@ -1,5 +1,5 @@
 ---
-link_title: About
+link_title: Über Uns
 anchor_id: about
 order: 2
 layout: section_two
