@@ -2,8 +2,15 @@
 
 By Fahrradbande!
 
-The page is generated with the help of https://jekyllrb.com.
-Deployment is currently on https://pages.github.com which has jekyll support installed. yay
+The page is generated with the help of https://jekyllrb.com. Deployment is currently on https://pages.github.com which has jekyll support installed. yay.
+
+
+## Writing
+
+ - Html
+ - Markdown
+ - Liquid
+
 
 ## Development
 
