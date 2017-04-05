@@ -17,7 +17,7 @@ Vom Fahrradsattel aus können Sie sich sehr viele Sportarten erschließen.  Vers
 ***
 
 ### Lastenräder
-Und was mache ich, wenn ich etwas schweres bewegen muss? Auch dann bietet das Fahrrad die passende Lösung:Mit einem Lastenrad tranportieren Sie  größere Einkaufe einfach und unkompliziert nach Hause. . Sie müssen kein Lastenrad besitzen, sondern können sich einfach eines ausleihen.
+Und was mache ich, wenn ich etwas schweres bewegen muss? Auch dann bietet das Fahrrad die passende Lösung: Mit einem Lastenrad tranportieren Sie  größere Einkaufe einfach und unkompliziert nach Hause. Sie müssen kein Lastenrad besitzen, sondern können sich einfach eines ausleihen.
 
 ***
 
