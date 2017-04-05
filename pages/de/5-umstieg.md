@@ -27,7 +27,7 @@ Es gibt kein schlechtes [Wetter](hhttp://www.rad-spannerei.de/blog/2014/09/08/ra
 
 ***
 
-### Längere Strecken zurücklegen
+### Längere Strecken 
 Mit dem Fahrrad lassen sich auch längere Strecken problemlos zurücklegen. Unser Einsteigertipp: Fangen Sie mit kürzeren Strecken an und tasten Sie sich Schritt für Schritt an längere Strecken heran. Sie werden schnell merken: Je länger die Strecke ist, desto größer wird Ihr Glücksgefühl.
 
 ***
