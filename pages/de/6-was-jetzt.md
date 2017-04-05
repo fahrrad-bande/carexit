@@ -7,7 +7,7 @@ layout: section_six
 ---
 
 ### Critical Mass
-„Ride daily – celebrate monthly“ ist das Motto der weltweiten Fahrradbewegung Critical Mass. Jeden letzten Freitag im Monat treffen sich Fahrradfahrende in vielen Städten rund um den Globus. Probieren Sie es aus und genießen es  gemeinsame Radfahren in einer großen Gruppe.
+„Ride daily – celebrate monthly“ ist das Motto der weltweiten Fahrradbewegung Critical Mass. Jeden letzten Freitag im Monat treffen sich Fahrradfahrende in vielen Städten. Probieren Sie es aus und genießen es  gemeinsame Radfahren in einer großen Gruppe.
 
 ***
 
