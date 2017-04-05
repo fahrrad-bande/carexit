@@ -1,7 +1,7 @@
 ---
 link_title: NOCH NICHT ÜBERZEUGT?
 anchor_id: gruende
-title: Noch Bedenken?<br>H6 gute Gründe für den Umstieg/carEXIT
+title: Noch Bedenken?<br>6 gute Gründe für den Umstieg/carEXIT
 order: 4
 layout: section_six
 ---
