@@ -5,17 +5,13 @@ order: 2
 layout: section_two
 ---
 
-### WAS IST carEX!T?
-carEX!T ist eine Initiative welche den Menschen hilft vom Auto auf das Fahrrad umzusteigen.
+### Was ist carEXIT?
+carEXIT unterstützt Menschen dabei, vom Auto auf das Fahrrad umzusteigen.
 
-### WAS BIETET carEX!T?
-carEX!T gibt einen umfangreichen Einblick in die Fahrradwelt und stellt Tipps für das Fahrradfahren in allen Situationen zur Verfügung. Darüber hinaus vermittelt carEX!T persönliche Kontakte um die Umstellung vom Auto auf das Fahrrad so einfach wie möglich zu gestalten.
+### Warum carEXIT?
+95% unserer Entscheidungen treffen wir unterbewusst. Das Autofahren ist eine Gewohnheit, die wir kaum hinterfragen, die aber viele negative Konsequenzen für den einzelnen und die Gesellschaft hat. Wir helfen Menschen, die diese Gewohnheit ablegen und auf das Rad umsteigen möchten. Da wir wissen, wie schwer das fällt, haben wir die Initiative carEXIT ins Leben gerufen. 
 
 ***
 
-### WARUM carEX!T?
-95% der von uns täglich getroffene Entscheidungen geschehen unterbewusst.
-Wir nehmen das Auto weil wir es so gelernt haben und weil wir es gewohnt sind.
-Dies geschieht auch wenn wir wissen, dass wir wieder im Stau stehen werden und wahrscheinlich keinen Parkplatz finden.
-Unser Gehirn unterscheidet nicht zwischen guten und schlechten Gewohnheiten.
-Die Gewohnheit das Auto zunehmen muss Stück für Stück mit der Gewohnheit das Rad zunehmen verdrängt werden.
+### Was bietet carEXIT?
+carEXIT bietet Ihnen die nötigen Argumente und Ansatzpunktefür einen erfolgreichen Umstieg. Sie erfahren alles über das Radfahren als moderne und freudebringende Fortbewegungsart und erhalten hilfreiche Tipps für die ersten Schritte, ...äh Tritte.
