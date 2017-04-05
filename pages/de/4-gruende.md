@@ -1,42 +1,36 @@
 ---
 link_title: NOCH NICHT ÜBERZEUGT?
 anchor_id: gruende
-title: NOCH NICHT ÜBERZEUGT?<br>HIER SIND 6 GUTE GRÜNDE FÜR carEX!T
+title: Noch Bedenken?<br>H6 gute Gründe für den Umstieg/carEXIT
 order: 4
 layout: section_six
 ---
 
-### Fit und gesund
-"A bike ride a day keeps the doctor away..."
-Regelmäßiges Fahrradfahren vermindert das Risiko von Fettleibigkeit, Herzkrankheiten oder Diabetes im Erwachsenenalter um die Hälfte. Deswegen empfehlen die SchweizerBundesämtertägliche30 Minuten Sport mit „mittlerrer Intensität“. Steigen Sie auf das Fahrrad und probieren es aus.'
+### Günstiger unterwegs
+Fahrradfahren kostet nicht viel. Investieren Sie in ein gutes Schloss und Sie sparen dauerhaft bares Geld. Statt sich über Benzinpreise zu ärgern, fahren Sie einfach los. Und auch vierstellige Repararturkosten gehören der Vergangenheit an.
 
 ***
 
-### Family
-Nicht mehr tanken, keine Steuern, keine Versicherungen und keine teuren Reparaturen mehr.
-Es liegt auf der Hand das die Kosten für das Fahrradfahren geringer sind als die für das Autofahren.
-Wer Fahrrad fährt spart nicht nur für sich selbst, sondern auch die Allgemeinheit profitiert davon.
+### Mehr Spaß
+Fahrradfahren macht einfach Spaß. Durch die Bewegung und den Fahrtwind in den Haaren entsteht ein ganz eigenes Glücksgefühl. Probieren Sie es am besten zusammen mit anderen Radlern aus! Sie werden ein zufriedenerer Mensch sein!
 
 ***
 
-### Schneller
-Das mag jetzt erst mal ein bisschen verrückt klingen, aber das Fahrrad spart Zeit und dies auch im Vergleich zum Auto. In deutschen Großstädten kommt mensch mit dem Fahrrad bei Strecken bis zum 5 km schneller ans Ziel als mit dem Auto.
-Die effektive Geschwindigkeit neben der Fahrzeit noch weitere Faktoren und hier hat das Fahrrad die Nase weit vor dem Auto.
+### Schneller am Ziel
+Strecken bis zu 5 Kilometern legen deutsche Großstädter radelnd schneller zurück als mit dem Auto. Aber auch für längere Wege lohnt sich der Umstieg: Radfahrer stecken nie im Stau, können besser abkürzen und finden immer sofort einen Parkplatz.
 
 ***
 
-### Umweltfreundlich
-Fahrräder werden nicht aufwendig hergestellt, verbrauchen keinen Benzin und verursachen kaum Straßenschäden.
-Nur zu Fuß laufen ist noch umweltfreundlicher.
+### Kostenlose Fitness
+"A bike ride a day keeps, the doctor away…"
+Wer im Erwachsenenalter regelmäßig Rad fährt, halbiert das Risiko für Fettleibigkeit, Herzkrankheiten oder Diabetes. Dafür reicht schon eine halbe Stunde täglich. Steigen Sie um und bleiben Sie fit!
 
 ***
 
-### Freiheit
-Das Fahrrad schenkt Freiheit.
-An der Ampel ein kurzes Gespräch mit der neben Person. Schnell durch die Stadt oder lieber gemütlich und noch einen Abstecher durch den Park. Alles ist möglich. Der Weg ist das Ziel. Setzen Sie sich auf Ihr Fahrrad und schauen wo es Sie hinfährt.
+### Integrierter Umweltschutz
+Radfahren hat einen sehr kleinen ökologischen Fußabdruck. Das macht jeden Radler zu einem aktiven Umweltschützer. Wir alle wünschen uns eine intakte Umwelt und saubere Luft zum Atmen – durch den Verzicht auf das Auto tragen Sie zu einer lebenswerten Zukunft bei.
 
 ***
 
-### Spaß
-Fahrradfahren macht einfach Spaß, glücklicher und zufriedener.
-Am besten gleich mal den Rechner runterfahren und rauf auf‘s Fahrrad und eine Runde drehen.
+### Unendliche Freiheit
+Mit dem Fahrrad ist alles möglich. Sie könnten Ihren künftigen Partner an der Ampel kennenlernen, Berge bezwingen oder einfach mal links in die Gasse einbiegen. Gemeinsam oder alleine – mit jeder Kettenlänge wird die Freiheit spürbar.
