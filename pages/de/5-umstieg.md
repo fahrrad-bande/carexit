@@ -1,5 +1,5 @@
 ---
-link_title: Vorort
+link_title: Umstieg
 anchor_id: how-to
 title: Wie gelingt der Umstieg?
 order: 5
