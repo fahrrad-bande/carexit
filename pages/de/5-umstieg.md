@@ -6,7 +6,7 @@ order: 5
 layout: section_six
 ---
 
-### Ein Fahrrad zulegene
+### Ein Fahrrad zulegen
 Falls bei Ihnen noch kein Fahrrad in der Garage steht, dann freuen Sie sich: Der Kauf eines Rades macht Spaß! Überlegen Sie sich, was Sie brauchen: Schnell und wendig, solide und lastenfähig, hip und einzigartig? Wir empfehlen für den Start eine verkehrssichere Variante. 
 
 ***
