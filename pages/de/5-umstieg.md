@@ -23,7 +23,7 @@ Das Gute ist: Als Autofahrer kennen Sie die Regeln schon. Ersetzen Sie den Blink
 ***
 
 ### Wetterfest werden
-Es gibt kein schlechtes [Wetter](hhttp://www.rad-spannerei.de/blog/2014/09/08/radfahren-und-regenwahrscheinlichkeit/),... Das sagt sich leicht. In der kühlen Jahreszeit ist Radfahren eine [Herrausforderung(http://www.adfc.de/gesundheit/richtig-rad-fahren/praxis-tipps-fuer-alltagsradler/seite-9-rad-kleidung). Wir empfehlen: Fangen Sie im Sommer an und tasten Sie sich langsam heran. Im Herbst wird der Regenradar Ihr bester Freund und irgendwann gesellt sich eine Wollmütze zu Regenjacke und -hose.
+Es gibt kein schlechtes [Wetter](hhttp://www.rad-spannerei.de/blog/2014/09/08/radfahren-und-regenwahrscheinlichkeit/),... Das sagt sich leicht. In der kühlen Jahreszeit ist Radfahren eine [Herrausforderung](http://www.adfc.de/gesundheit/richtig-rad-fahren/praxis-tipps-fuer-alltagsradler/seite-9-rad-kleidung). Wir empfehlen: Fangen Sie im Sommer an und tasten Sie sich langsam heran. Im Herbst wird der Regenradar Ihr bester Freund und irgendwann gesellt sich eine Wollmütze zu Regenjacke und -hose.
 
 ***
 
