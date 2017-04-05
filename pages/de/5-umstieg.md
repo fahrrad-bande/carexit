@@ -14,6 +14,9 @@ Falls bei Ihnen noch kein Fahrrad in der Garage steht, dann freuen Sie sich: Der
 ### Ängste abbauen
 Das Unfallrisiko beim Radfahren ist geringer als beim Autofahren. Wählen Sie zu Beginn Strecken mit gut ausgebauten Radwegen oder wenig Verkehr. Gemeinsam bringt das Radeln noch mehr Spaß und Sie finden Ihren eigenen Stil. 
 
+[TEST](http://mitradgelegenheit.org/)
+
+
 ***
 
 ### Die Regeln kennen
