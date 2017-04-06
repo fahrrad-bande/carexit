@@ -6,11 +6,9 @@ order: 8
 layout: section_six
 ---
 
-### Kontakt
-Sie sind bereit bereit für Ihren persönlichen carEX!T, haben Fragen, Anregungen oder Kritik, dann schreiben Sie uns
-<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-### Impressum2
+
+### Impressum
 www.carexit.org ist die Homepage des Arbeitskreises FahrradBande der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin. Angaben gemäß § 5 TMG:
 
 BUNDjugend Berlin
