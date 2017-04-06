@@ -1,5 +1,5 @@
 ---
-link_title: Kontakt
+link_title:
 anchor_id: contact
 title: 
 order: 8
