@@ -2,7 +2,7 @@
 link_title: Über carEXIT
 anchor_id: about
 order: 2
-layout: section_two
+layout: section_six
 ---
 
 Sie würden auch gerne aussteigen? Dann sind Sie hier richtig. Was Maja, Alma, Tini, Katherina und Christian geschafft haben, können Sie auch! Wir zeigen Ihnen wie.
