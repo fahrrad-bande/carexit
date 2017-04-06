@@ -1,7 +1,7 @@
 ---
 link_title: Über carEXIT
 anchor_id: about
-title: In allem Anfang wohnt ein Zauber inne
+title: Jedem Anfang wohnt ein Zauber inne
 order: 2
 layout: section_six
 ---
