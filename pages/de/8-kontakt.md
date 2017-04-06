@@ -6,6 +6,10 @@ order: 8
 layout: section_six
 ---
 
+### Kontakt
+Sie sind bereit bereit für Ihren persönlichen carEX!T, haben Fragen, Anregungen oder Kritik, dann schreiben Sie uns
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+
 ### Impressum
 www.carexit.org ist die Homepage des Arbeitskreises FahrradBande der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin. Angaben gemäß § 5 TMG:
 
@@ -22,10 +26,6 @@ Tel.: 030 – 392 82 80
 E-Mail: mitradgegelegenheit((ÄT))bundjugend-berlin((PÜNKT))de
 
 ***
-
-### Kontakt
-Sie sind bereit bereit für Ihren persönlichen carEX!T, haben Fragen, Anregungen oder Kritik, dann schreiben Sie uns
-<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 ## Haftungsausschluss
 Der Inhalt der Webseiten der BUNDjugend Berlin wurde sorgfältig geprüft und bearbeitet, erhebt jedoch keinen Anspruch auf Vollständigkeit. Der Webmaster übernimmt keinerlei Gewähr für Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Außerdem behält sich der Webmaster ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung einzustellen.
