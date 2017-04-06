@@ -23,11 +23,11 @@ Erich-Weinert-Straße 82
 
 Tel.: 030 – 392 82 80
 
-E-Mail: mitradgegelegenheit((ÄT))bundjugend-berlin((PÜNKT))de
+E-Mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 ***
 
-## Haftungsausschluss
+### Haftungsausschluss
 Der Inhalt der Webseiten der BUNDjugend Berlin wurde sorgfältig geprüft und bearbeitet, erhebt jedoch keinen Anspruch auf Vollständigkeit. Der Webmaster übernimmt keinerlei Gewähr für Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Außerdem behält sich der Webmaster ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung einzustellen.
 
 ***
