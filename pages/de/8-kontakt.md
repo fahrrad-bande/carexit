@@ -1,7 +1,7 @@
 ---
-link_title:
+link_title: Impressum
 anchor_id: contact
-title: 
+title:
 order: 8
 layout: section_six
 ---
