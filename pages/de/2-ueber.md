@@ -5,9 +5,10 @@ order: 2
 layout: section_six
 ---
 
+### Was ist carEXIT?
+
 Sie würden auch gerne aussteigen? Dann sind Sie hier richtig. Was Maja, Alma, Tini, Katherina und Christian geschafft haben, können Sie auch! Wir zeigen Ihnen wie.
 
-### Was ist carEXIT?
 carEXIT unterstützt Menschen dabei, vom Auto auf das Fahrrad umzusteigen.
 
 ***
