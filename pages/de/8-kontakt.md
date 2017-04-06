@@ -1,7 +1,7 @@
 ---
 link_title: Kontakt
 anchor_id: contact
-title: KONTAKT
+title: 
 order: 8
 layout: section_six
 ---
