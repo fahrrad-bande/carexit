@@ -1,5 +1,5 @@
 ---
-link_title: Impressum
+link_title: 
 anchor_id: contact
 title: Impressum
 order: 8
