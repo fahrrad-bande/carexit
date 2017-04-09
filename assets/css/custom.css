@@ -90,3 +90,10 @@ section.bright {
     background-color: rgba(255, 255, 255, 0.8)
 }
 
+.lang_de .nav-button.lang_de,
+.lang_br .nav-button.lang_br,
+.lang_sr .nav-button.lang_sr {
+    text-decoration: none;
+    background-color: #fff;
+    color: #42bfeb;
+}
