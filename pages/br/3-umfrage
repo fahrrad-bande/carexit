@@ -27,73 +27,73 @@ permalink: /
           </ul>
 
           <fieldset><div class="row">
-            <div class="question col-xs-12"><h3>Wenn ich an's Autofahren denke, habe ich...</h3></div></div><div class="answers"><div class="answer clearfix"><div class="answer-checkbox">
+            <div class="question col-xs-12"><h3>Quando eu penso em um carro, sinto...</h3></div></div><div class="answers"><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="1" name="1">
               </div>
               <div class="answer-label">
-              <label for="1" class="">ein Kribbeln im Bauch</label>
+              <label for="1" class="">Um embrulho no estômago </label>
               </div></div><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="2" name="2">
               </div>
               <div class="answer-label">
-              <label for="2" class="">ein Gef&uuml;hl von Normalit&auml;t</label>
+              <label for="2" class="">Uma sensação de normalidade</label>
               </div></div><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="3" name="3">
               </div>
               <div class="answer-label">
-              <label for="3" class="">schlechte Laune</label>
-              </div></div></div><input type="button" name="weiter" class="next action-button" value="weiter"></fieldset><fieldset><div class="row">
-            <div class="question col-xs-12"><h3>Mein Stressfaktor beim Autofahren liegt auf einer Skala von 1 bis 10 bei...</h3></div></div><div class="answers"><div class="answer clearfix"><div class="answer-checkbox">
+              <label for="3" class="">Mal humor</label>
+              </div></div></div><input type="button" name="continuar" class="next action-button" value="continuar"></fieldset><fieldset><div class="row">
+            <div class="question col-xs-12"><h3>Meu fator de estresse ao dirigir numa escala de 1 a 10 é...</h3></div></div><div class="answers"><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="4" name="4">
               </div>
               <div class="answer-label">
-              <label for="4" class="">1 - 3</label>
+              <label for="4" class="">1 a 3</label>
               </div></div><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="5" name="5">
               </div>
               <div class="answer-label">
-              <label for="5" class="">4 - 7</label>
+              <label for="5" class="">4 a 7</label>
               </div></div><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="6" name="6">
               </div>
               <div class="answer-label">
-              <label for="6" class="">8 - 10</label>
-              </div></div></div><input type="button" name="weiter" class="next action-button" value="weiter"><input type="button" name="zurück" class="previous action-button" value="zurück"></fieldset><fieldset><div class="row">
-            <div class="question col-xs-12"><h3>Wenn ich ans Fahrradfahren denke...</h3></div></div><div class="answers"><div class="answer clearfix"><div class="answer-checkbox">
+              <label for="6" class="">8 a 10</label>
+              </div></div></div><input type="button" name="continuar" class="next action-button" value="continuar"><input type="button" name="para trás" class="previous action-button" value="para trás"></fieldset><fieldset><div class="row">
+            <div class="question col-xs-12"><h3>Quando eu penso em pedalar...</h3></div></div><div class="answers"><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="7" name="7">
               </div>
               <div class="answer-label">
-              <label for="7" class="">fallen mir meine gut gebauten, athletischen Radlerfreunde und deren gute Laune ein</label>
+              <label for="7" class="">penso nos meus amigos ciclistas bem treinados, atletas e bem humorados</label>
               </div></div><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="8" name="8">
               </div>
               <div class="answer-label">
-              <label for="8" class="">meldet sich der innere Schweinehund</label>
+              <label for="8" class="">meu lado fraco diz “Olá”</label>
               </div></div><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="9" name="9">
               </div>
               <div class="answer-label">
-              <label for="9" class="">bekomme ich Angst</label>
-              </div></div></div><input type="button" name="weiter" class="next action-button" value="weiter"><input type="button" name="zurück" class="previous action-button" value="zurück"></fieldset><fieldset><div class="row">
-            <div class="question col-xs-12"><h3>Ich habe...</h3></div></div><div class="answers"><div class="answer clearfix"><div class="answer-checkbox">
+              <label for="9" class="">Fico com medo</label>
+              </div></div></div><input type="button" name="continuar" class="next action-button" value="continuar"><input type="button" name="para trás" class="previous action-button" value="para trás"></fieldset><fieldset><div class="row">
+            <div class="question col-xs-12"><h3>Eu...</h3></div></div><div class="answers"><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="10" name="10">
               </div>
               <div class="answer-label">
-              <label for="10" class="">noch nie dar&uuml;ber nachgedacht, auf's Rad umzusteigen</label>
+              <label for="10" class="">nunca pensei em trocar meu carro pela bike</label>
               </div></div><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="11" name="11">
               </div>
               <div class="answer-label">
-              <label for="11" class="">mir beim Autofahren schon oft gewünscht, ein Radfahrer zu sein</label>
+              <label for="11" class="">pensei frequentemente em ser um ciclista quando estava dirigindo</label>
               </div></div><div class="answer clearfix"><div class="answer-checkbox">
               <input type="checkbox" id="12" name="12">
               </div>
               <div class="answer-label">
-              <label for="12" class="">Tr&auml;ume, in denen ich in den Sonnenuntergang radle</label>
-              </div></div></div><input type="button" name="weiter" class="next action-button" value="weiter"><input type="button" name="zurück" class="previous action-button" value="zurück"></fieldset><fieldset><div class="row">
+              <label for="12" class="">sonho em pedalar em direção ao pôr do sol</label>
+              </div></div></div><input type="button" name="weiter" class="next action-button" value="weiter"><input type="button" name="para trás" class="previous action-button" value="para trás"></fieldset><fieldset><div class="row">
             <div class="row">
               <div class=" question">
-                <h3>Gl&uuml;ckwunsch!</h2>
+                <h3>Parabéns!</h2>
               </div>
               <div><p>Sie haben es geschafft!</p></div>
             </div>
