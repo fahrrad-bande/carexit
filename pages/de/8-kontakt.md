@@ -4,7 +4,7 @@ anchor_id: contact
 title: Impressum
 order: 8
 language: de
-layout: section_six
+section_layout: section_six
 permalink: /
 ---
 

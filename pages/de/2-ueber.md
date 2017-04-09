@@ -4,7 +4,7 @@ anchor_id: about
 title: Jedem Anfang wohnt ein Zauber inne
 order: 2
 language: de
-layout: section_six
+section_layout: section_six
 permalink: /
 ---
 
