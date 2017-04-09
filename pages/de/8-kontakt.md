@@ -4,6 +4,7 @@ anchor_id: contact
 title: Impressum
 order: 8
 layout: section_six
+permalink: /
 ---
 
 

@@ -4,6 +4,7 @@ anchor_id: gruende
 title: Noch Bedenken?<br>6 gute Gründe für den Umstieg
 order: 4
 layout: section_six
+permalink: /
 ---
 
 ### Günstiger unterwegs

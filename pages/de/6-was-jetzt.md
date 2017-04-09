@@ -4,6 +4,7 @@ anchor_id: how-to
 title: Umstieg geschafft, was kommt jetzt?
 order: 6
 layout: section_six
+permalink: /
 ---
 
 ### Stadt erobern
@@ -17,19 +18,19 @@ Vom Fahrradsattel aus können Sie sich sehr viele Sportarten erschließen.  Vers
 ***
 
 ### Dinge bewegen
-Fortgeschrittene schrecken auch vorm Möbeltransport nicht zurück. Mit einem Lastenrad bewegen Sie größere Einkäufe unkompliziert nach Hause. 
+Fortgeschrittene schrecken auch vorm Möbeltransport nicht zurück. Mit einem Lastenrad bewegen Sie größere Einkäufe unkompliziert nach Hause.
 
 Bei Bedarf können Sie sich einfach ein Lastenrad [ausleihen](http://cargobike.jetzt/sharing-angebote/).
 
 ***
 
 ### Profi werden
-Ihr Fahrrad ist kaputt und Sie möchten es am liebsten selbst reparieren? Dann gehen Sie am besten zur [nächsten](http://www.heureux-cyclage.org/Les-ateliers-velo-dans-le-monde.html?lang=en) Bike Kitchen (Fahrrad-Selbsthilfewerkstatt). Dort können Sie Ihr Rad unter Anleitung und gegen eine Spende wieder fit machen und lernen gleich noch etwas dazu. 
+Ihr Fahrrad ist kaputt und Sie möchten es am liebsten selbst reparieren? Dann gehen Sie am besten zur [nächsten](http://www.heureux-cyclage.org/Les-ateliers-velo-dans-le-monde.html?lang=en) Bike Kitchen (Fahrrad-Selbsthilfewerkstatt). Dort können Sie Ihr Rad unter Anleitung und gegen eine Spende wieder fit machen und lernen gleich noch etwas dazu.
 
 ***
 
 ### Gemeinsam fahren
-Sie suchen freundliche Menschen, mit denen Sie gemeinsam Fahrradfahren können? Über die [mitRADgelegenheit](http://mitradgelegenheit.org/die-mitradgelegenheit/) finden Sie mitRadler für Ihre alltäglichen Wege. Wenn Sie Ihre Stadt  vom Rad aus erkunden wollen, nehmen Sie an einem [Allycat](https://de.wikipedia.org/wiki/Alleycat), der Schnitzeljagd auf dem Fahrrad, teil. 
+Sie suchen freundliche Menschen, mit denen Sie gemeinsam Fahrradfahren können? Über die [mitRADgelegenheit](http://mitradgelegenheit.org/die-mitradgelegenheit/) finden Sie mitRadler für Ihre alltäglichen Wege. Wenn Sie Ihre Stadt  vom Rad aus erkunden wollen, nehmen Sie an einem [Allycat](https://de.wikipedia.org/wiki/Alleycat), der Schnitzeljagd auf dem Fahrrad, teil.
 
 ***
 
