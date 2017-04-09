@@ -10,11 +10,13 @@ permalink: /
 
 ### Mais grana
 Pedalar não custa muito. Invista em um bom cadeado para bike e você guardará mais dinheiro permanentemente. Ao invés de ficar irritado com os preços da gasolina, você apenas sai pedalando. E os quatro dígitos de custo de mecânica do seu carro pertencerão ao passado.
+
 ***
 
 ### Mais divertido
 Pedalar é simplesmente divertido. O exercício e o vento no seu cabelo cria a sensação de felicidade por si mesma. Tente fazer isso com outro(a)s ciclistas. Você terá ainda mais satisfação!
 Para isso, chame um Bike Anjo: bikeanjo.org
+
 ***
 
 ### Mais rápido até o destino
@@ -29,6 +31,7 @@ Nas cidades, distâncias maiores que 5 quilômetros podem ser feitas mais rápid
 
 ### Proteção ambiental integrada
 Pedalar tem uma pegada ecológica bem pequena. Isso faz de todo(a) ciclista um(a) ambientalista. Nós todos queremos o meio ambiente preservado e o ar limpo para respirar – ao renunciar o seu carro você contribui para um futuro habitável. 
+
 ***
 
 ### Liberdade infinita
