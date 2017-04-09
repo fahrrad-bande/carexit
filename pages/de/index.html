@@ -2,6 +2,7 @@
 layout: default
 permalink: de/index.html
 ---
+{% include section_home.html %}
 {% assign pages = site.html_pages | sort: "order" %}
 {% for page in pages %}
   {% if page.link_title %}
