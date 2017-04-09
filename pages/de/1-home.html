@@ -13,10 +13,8 @@ order: 1
       <div class="landing-nav col-xs-12 col-md-7 col-md-offset-2" id="landing-nav">
         <ul>
           <li>
-              {% comment %}
-              {% include_relative 'icon-twitter.html' username=site.twitter_username %}
-              {% include_relative 'icon-facebook.html' username=site.facebook_page %}
-              {% endcomment %}
+            {% include icon-twitter.html username=site.twitter_username %}
+            {% include icon-facebook.html username=site.facebook_page %}
           </li>
           <li>
             <a href="#ready" class="nav-button donate-button exit-button-top scroll"><i class="icon-cw"></i>&nbsp;exit now!</a>
