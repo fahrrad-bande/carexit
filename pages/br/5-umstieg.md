@@ -23,7 +23,9 @@ O risco de acidentes ao pedalar é mais baixo do que quando dirigindo um carro. 
 ### Saiba as regras
 A parte boa é: como motorista, você já deve conhecer as regras. 
 
-Substitua a seta do carro pelo grande sinal de mão. E atenção às sinalizações do trânsito. 
+Substitua a seta do carro pelo grande sinal de mão. 
+
+E atenção às sinalizações do trânsito. 
 
 
 Veja essas e mais dicas neste [vídeo](https://www.youtube.com/watch?v=0Rh9gzybI6E).
