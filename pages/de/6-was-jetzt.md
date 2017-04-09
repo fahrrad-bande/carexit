@@ -3,6 +3,7 @@ link_title: Fahrradwelt
 anchor_id: how-to
 title: Umstieg geschafft, was kommt jetzt?
 order: 6
+language: de
 layout: section_six
 permalink: /
 ---
