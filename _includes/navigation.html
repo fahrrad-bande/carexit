@@ -15,10 +15,10 @@
       <ul class="nav navbar-nav main-nav">
 
         {% assign pages = site.pages | sort: "order" %}
-        {% for page in pages %}
-          {% if page.link_title and page.anchor_id != 'home' %}
+        {% for subpage in pages %}
+          {% if subpage.link_title and subpage.language == page.language %}
             <li>
-              <a href="#{{ page.anchor_id }}" class="scroll">{{ page.link_title }}</a>
+              <a href="#{{ subpage.anchor_id }}" class="scroll">{{ subpage.link_title }}</a>
             </li>
           {% endif %}
         {% endfor %}
@@ -31,7 +31,16 @@
             {% include icon-facebook.html username=site.facebook_page %}
         </li>
         <li>
-          <a href="https://www.generosity.com/community-fundraising/buoy-empowering-community-based-crisis-response" target="_blank" class="nav-button donate-button">donate</a>
+          <a href="https://TODO" target="_blank" class="nav-button donate-button">donate</a>
+        </li>
+        <li>
+          <a href="../de" class="nav-button lang_de"><i class="icon-globe"></i>de</a>
+        </li>
+        <li>
+          <a href="../br" class="nav-button lang_br"><i class="icon-globe"></i>br</a>
+        </li>
+        <li>
+          <a href="../sr" class="nav-button lang_sr"><i class="icon-globe"></i>sr</a>
         </li>
       </ul>
     </div>

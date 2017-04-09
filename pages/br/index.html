@@ -7,9 +7,9 @@ permalink: br/index.html
 {% assign pages = site.html_pages | sort: "order" %}
 {% for subpage in pages %}
   {% if subpage.link_title and subpage.language == page.language %}
-    {% if subpage.layout %}
+    {% if subpage.section_layout %}
       {% capture class %}{% cycle 'dark', 'bright' %}{% endcapture %}
-      {% include {{ subpage.layout }}.html page=subpage nr=forloop.index class=class %}
+      {% include {{ subpage.section_layout }}.html page=subpage nr=forloop.index class=class %}
     {% else %}
       {{ subpage.content }}
     {% endif %}

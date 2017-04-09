@@ -4,7 +4,7 @@ anchor_id: about
 title: GOGOGO
 order: 2
 language: br
-layout: section_six
+section_layout: section_six
 permalink: /
 ---
 
