@@ -15,7 +15,7 @@ Pedalar não custa muito. Invista em um bom cadeado para bike e você guardará 
 
 ### Mais divertido
 Pedalar é simplesmente divertido. O exercício e o vento no seu cabelo cria a sensação de felicidade por si mesma. Tente fazer isso com outro(a)s ciclistas. Você terá ainda mais satisfação!
-Para isso, chame um Bike Anjo: bikeanjo.org
+Para isso, chame um Bike Anjo: [bikeanjo.org](http://bikeanjo.org/)
 
 ***
 
