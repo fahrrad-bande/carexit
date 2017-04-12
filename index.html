@@ -2,11 +2,31 @@
 ---
 <!DOCTYPE html>
 <html>
-    {% include head.html %}
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+      <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+      <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+      <link href="{{ "/assets/css/start.css" | prepend: site.github.url }}" rel="stylesheet">
+
+      <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url | prepend: site.url }}">
+    </head>
 
     <body class="start">
 
-      <img src="assets/img/logo.png">
-        <a href="/de">de</a>
+      <div class="main">
+        <a href="https://www.facebook.com/events/1122297217915906"><img src="assets/img/logo.png" width="70%"></a>
+        <div>
+          <h2>Coming soon!</h2>
+
+          <h1>carEXIT - Die Aussteiger-Kampagne für Autofahrer*innen.</h1>
+
+          <a href="https://www.facebook.com/events/1122297217915906/">Video-Premiere am 18. April im Laika.</a>
+        </div>
+      </div>
     </body>
 </html>
