@@ -1,0 +1,32 @@
+body.start {
+    background: url(../img/bg2.jpg) no-repeat center center fixed;
+}
+
+.start .main {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 500px;
+   height: 500px;
+   margin-top: -250px; /* Half the height */
+   margin-left: -250px; /* Half the width */
+}
+
+div {
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.9em;
+}
+
+h2, a {
+  color: coral;
+}
+
+div div {
+    padding: 1px 5px 20px 5px;
+    background-color: rgba(2, 51, 114, 0.6);
+    color: #FFF;
+    font-family: Helvetica;
+}
