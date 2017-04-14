@@ -83,11 +83,16 @@ body.start {
  * @group Colors.
  */
 section {
-    background-color: rgba(204, 241, 232, 0.9);
+    background-color: #F2F2F2;
 }
 
-section.bright {
-    background-color: rgba(255, 255, 255, 0.8)
+section.blue {
+    background-color: #17558C;
+    color: #FFF;
+}
+
+section.yellow {
+    background-color: #F29F04;
 }
 
 .lang_de .nav-button.lang_de,

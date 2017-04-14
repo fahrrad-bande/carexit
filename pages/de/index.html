@@ -8,8 +8,7 @@ permalink: de/index.html
 {% for subpage in pages %}
   {% if subpage.link_title and subpage.language == page.language %}
     {% if subpage.section_layout %}
-      {% capture class %}{% cycle 'dark', 'bright' %}{% endcapture %}
-      {% include {{ subpage.section_layout }}.html page=subpage nr=forloop.index class=class %}
+      {% include {{ subpage.section_layout }}.html page=subpage nr=forloop.index class=subpage.section_class %}
     {% else %}
       {{ subpage.content }}
     {% endif %}

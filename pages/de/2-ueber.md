@@ -5,6 +5,7 @@ title: Jedem Anfang wohnt ein Zauber inne
 order: 2
 language: de
 section_layout: section_six
+section_class: blue
 permalink: /
 ---
 
