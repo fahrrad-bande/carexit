@@ -1,0 +1,17 @@
+---
+layout: default
+language: gr
+permalink: gr/index.html
+---
+{% include section_home.html %}
+{% assign pages = site.html_pages | sort: "order" %}
+{% for subpage in pages %}
+  {% if subpage.link_title and subpage.language == page.language %}
+    {% if subpage.section_layout %}
+      {% capture class %}{% cycle 'dark', 'bright' %}{% endcapture %}
+      {% include {{ subpage.section_layout }}.html page=subpage nr=forloop.index class=class %}
+    {% else %}
+      {{ subpage.content }}
+    {% endif %}
+  {% endif %}
+{% endfor %}
