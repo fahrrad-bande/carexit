@@ -2,9 +2,9 @@
 link_title: Fahrradwelt
 anchor_id: how-to
 title: Τα κατάφερα! Και τώρα;
-order: 2
+order: 6
 language: gr
-section_layout: section_six
+section_layout: section_two
 permalink: /
 ---
 
