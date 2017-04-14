@@ -1,3 +1,5 @@
+---
+---
 @font-face {
   font-family: 'intelexit';
   src: url('../fonts/intelexit.eot?81984972');
@@ -95,10 +97,11 @@ section.yellow {
     background-color: #F29F04;
 }
 
-.lang_de .nav-button.lang_de,
-.lang_br .nav-button.lang_br,
-.lang_sr .nav-button.lang_sr {
+{% for language in site.languages %}
+.lang_{{language}} .nav-button.lang_{{language}} {
     text-decoration: none;
     background-color: #fff;
     color: #42bfeb;
 }
+{% endfor %}
+

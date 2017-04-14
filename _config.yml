@@ -19,6 +19,11 @@ email: info@carexit.org
 twitter_username: mradgbln
 facebook_page: mitRADgelegenheit
 
+languages:
+  - de
+  - br
+  - gr
+
 # Build settings
 markdown: kramdown
 exclude:

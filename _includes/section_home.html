@@ -18,9 +18,9 @@
             <a href="https://TODO" target="_blank" class="nav-button donate-button">donate</a>
           </li>-->
           <li>
-            <a href="../de" class="nav-button lang_de"><i class="icon-globe"></i>de</a>
-            <a href="../br" class="nav-button lang_br"><i class="icon-globe"></i>br</a>
-            <a href="../gr" class="nav-button lang_gr"><i class="icon-globe"></i>gr</a>
+            {% for language in site.languages %}
+              <a href="../{{language}}" class="nav-button lang_{{language}}"><i class="icon-globe"></i>{{language}}</a>
+            {% endfor %}
           </li>
         </ul>
       </div>

@@ -33,15 +33,11 @@
         <li>
           <a href="https://TODO" target="_blank" class="nav-button donate-button">donate</a>
         </li>
-        <li>
-          <a href="../de" class="nav-button lang_de"><i class="icon-globe"></i>de</a>
-        </li>
-        <li>
-          <a href="../br" class="nav-button lang_br"><i class="icon-globe"></i>br</a>
-        </li>
-        <li>
-          <a href="../gr" class="nav-button lang_gr"><i class="icon-globe"></i>sr</a>
-        </li>
+        {% for language in site.languages %}
+          <li>
+            <a href="../{{language}}" class="nav-button lang_{{language}}"><i class="icon-globe"></i>{{language}}</a>
+          </li>
+        {% endfor %}
       </ul>
     </div>
   </div>
