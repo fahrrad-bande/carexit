@@ -9,7 +9,6 @@ permalink: /
 ---
 
 ## O que é **car**Exit?
-
 Você não quer mais ficar preso no trânsito?
 Está irritado com as contas altas do combustível?
 Então use carEXIT – seu ingresso para o maravilhoso mundo da bike.

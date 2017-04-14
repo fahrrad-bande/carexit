@@ -4,13 +4,4 @@ language: de
 permalink: de/index.html
 ---
 {% include section_home.html title="Nie wieder Stau!<br />Nie wieder hohe Benzinkosten!"%}
-{% assign pages = site.html_pages | sort: "order" %}
-{% for subpage in pages %}
-  {% if subpage.link_title and subpage.language == page.language %}
-    {% if subpage.section_layout %}
-      {% include {{ subpage.section_layout }}.html page=subpage nr=forloop.index class=subpage.section_class %}
-    {% else %}
-      {{ subpage.content }}
-    {% endif %}
-  {% endif %}
-{% endfor %}
+{% include subpages.html %}
