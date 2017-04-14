@@ -77,7 +77,7 @@ $(".previous").click(function(){
 		complete: function(){
 			current_fs.hide();
 			animating = false;
-previous_fs.show();
+			previous_fs.show();
 		},
 		easing: 'easeInOutBack'
 	});
@@ -86,3 +86,41 @@ previous_fs.show();
 $(".submit").click(function(){
 	return false;
 })
+
+$("fieldset").last().on('show', function() {
+	var selected = $("input[type='radio']:checked");
+	console.log(selected);
+	var sum = 0;
+	for (index = 0; index < selected.length; ++index) {
+		if (selected[index].value !== null) {
+			sum += parseInt(selected[index].value);
+		}
+	}
+	console.log(sum);
+	switch(true) {
+		case (sum < 5):
+			$('#evaluation').html(unsichere);
+			break;
+		case (sum > 8):
+			$('#evaluation').html(ueberzeugte);
+			break;
+		default:
+			$('#evaluation').html(zweifler);
+			break;
+	}
+});
+
+/* Some magic found in the wild of the world wide web */
+(function ($) {
+	  $.each(['show', 'hide'], function (i, ev) {
+	    var el = $.fn[ev];
+	    $.fn[ev] = function () {
+	      this.trigger(ev);
+	      return el.apply(this, arguments);
+	    };
+	  });
+	})(jQuery);
+
+var ueberzeugte = '<div class="question"><h3>Sie geh&ouml;ren zu den &Uuml;berzeugten!</h3></div><div class="answers"><p>Noch ist das Auto Ihr Fortbewegungsmittel der Wahl, einfach weil es sehr bequem ist. Für Sie überwiegen die Vorteile eines eigenen Wagens das Radfahren bei Weitem, dennoch fragen Sie sich manchmal, ob ein Umstieg m&ouml;glich w&auml;re. Wir unterst&uuml;tzen Sie gerne bei den ersten Schritten – machen Sie einen Anfang, indem Sie einfach mal das Rad statt das Auto nehmen.</p></div></div>';
+var unsichere = '<div class="question"><h3>Sie geh&ouml;ren zu den Unsicheren.</h3></div><div><p>Sie glauben an das Fahrrad als Fortbewegungsmittel, haben ohne die sch&uuml;tzende H&uuml;lle im Straßenverkehr aber Angst? Dann sind Sie hier genau richtig. Eine Umstieg gelingt nicht von heute auf morgen, nehmen Sie sich Zeit und finden Sie Gleichgesinnte für Ihr Vorhaben. Wir sind uns sicher, dass die Freude am Radfahren gr&ouml;ßer ist als die Angst.</p></div></div>';
+var zweifler = '<div class="question"><h3>Sie sind ein Zweifler!</h3></div><div><p>Sie erkennen die Vorteile des Radfahrens klar und deutlich, dennoch sorgen Sie sich, welche Konsequenzen ein Umstieg für Sie hat. Wir versichern Ihnen: Mit dem Rad k&ouml;nnen Sie in der Stadt nahezu 100 Prozent Ihrer Wege zur&uuml;cklegen. Lesen Sie weiter und erfahren Sie, wie der Umstieg gelingt.</p></div></div>';
