@@ -3,7 +3,7 @@ layout: default
 language: de
 permalink: de/index.html
 ---
-{% include section_home.html %}
+{% include section_home.html title="Nie wieder Stau!<br />Nie wieder hohe Benzinkosten!"%}
 {% assign pages = site.html_pages | sort: "order" %}
 {% for subpage in pages %}
   {% if subpage.link_title and subpage.language == page.language %}

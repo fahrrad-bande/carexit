@@ -1,0 +1,18 @@
+{% assign splitby = include.page.splitby | default: "</h2>" %}
+{% assign questions = include.page.content | split: "<hr />" %}
+<section id="{{ include.page.anchor_id }}" class="{{ include.class }}">
+  <a id="{{ include.page.anchor_id }}" class="anchor"></a>
+  <div class="container landing-container" style="text-align: center;">
+    {% for question in questions %}
+      <div class="row row-items">
+        {% assign question_split = question | split: splitby %}
+        {% assign title = question_split | first | append: splitby %}
+        {% assign body =  question_split | last %}
+        <div class="col-sm-12">
+          {{ title }}
+          {{ body }}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
