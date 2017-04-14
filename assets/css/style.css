@@ -258,7 +258,8 @@ body {
 .landing-logo {
     max-height: 44px;
     display: block;
-    margin: auto
+    padding: 2px 5px;
+    background-color: #17558C
 }
 
 .navbar .row {
