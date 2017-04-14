@@ -15,8 +15,7 @@ url: "" # the base hostname & protocol for your site
 includes_dir: _includes
 
 # Contact values.
-email: start@carexit.org
-email_press: presse@carexit.org
+email: info@carexit.org
 twitter_username: mradgbln
 facebook_page: mitRADgelegenheit
 
