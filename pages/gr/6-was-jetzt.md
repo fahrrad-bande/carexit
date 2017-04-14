@@ -1,5 +1,5 @@
 ---
-link_title: Fahrradwelt
+link_title: ποδήλατο
 anchor_id: how-to
 title: Τα κατάφερα! Και τώρα;
 order: 6
