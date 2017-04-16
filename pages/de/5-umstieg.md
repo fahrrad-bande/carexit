@@ -20,7 +20,7 @@ Das Unfallrisiko beim Radfahren ist [geringer](http://www.zeit.de/mobilitaet/201
 ***
 
 ### Die Regeln kennen
-Das Gute ist: Als Autofahrer kennen Sie die Regeln schon. Ersetzen Sie den Blinker mit ausladenden Handzeichen. Radwege mit einem blauen Schild sind pflichtweise zu befahren. Und Achtung an der Ampel:Radfahrer haben oft ihre eigenen Lichtzeichen und fahren zuerst.
+Das Gute ist: Als Autofahrer kennen Sie die Regeln schon. Ersetzen Sie den Blinker mit ausladenden Handzeichen. Radwege mit einem blauen Schild sind pflichtweise zu befahren. Und Achtung an der Ampel: Radfahrer haben oft ihre eigenen Lichtzeichen und fahren zuerst.
 
 ***
 
