@@ -11,7 +11,7 @@ permalink: /
 
 
 ### Impressum
-www.carexit.org ist die Homepage des Arbeitskreises FahrradBande der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin ([BUNDjugend-Berlin.de](https://www.bundjugend-berlin.de/)). Angaben gemäß § 5 TMG:
+www.carEXIT.org ist die Homepage des Arbeitskreises FahrradBande der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin ([BUNDjugend-Berlin.de](https://www.bundjugend-berlin.de/)). Angaben gemäß § 5 TMG:
 
 BUNDjugend Berlin, Jugend im Bund für Umwelt und Naturschutz Berlin e.V., Erich-Weinert-Straße 82, 10439 Berlin
 
@@ -41,4 +41,4 @@ Der Inhalt der Webseiten der BUNDjugend Berlin wurde sorgfältig geprüft und be
 ***
 
 ### Haftung für Links
-Es wird darauf hingewiesen, dass Links von den Seiten der BUNDjugend Berlin zu externen Anbietern führen, sobald der Rahmen von www.carexit.org verlassen wird und sich ein neues Browserfenster öffnet oder die Seiten gesondert gekennzeichnet sind. Für die Richtigkeit des Inhalts der externen Seiten übernimmt die BUNDjugend Berlin keine Verantwortung, vielmehr unterliegen sie der Haftung der jeweiligen Anbieter*innen. Dies gilt auch für die Rechtmäßigkeit oder die Erfüllung von Urheberrechtsbestimmungen der verlinkten Seiten sowie für deren Aktualität. Durch eine Verlinkung auf externe Seiten macht sich die BUNDjugend Berlin diese nicht zu Eigen. Vielmehr dienen die Links und Inhalte dem Informationsaustausch und begründen keine geschäftlichen Beziehungen irgendeiner Art. Die BUNDjugend Berlin distanziert sich ausdrücklich von eventuell rechtswidrigen Inhalten der verlinkten Seiten. Der Inhalt der Seiten wird nur zum Zeitpunkt der Aufnahme geprüft.
+Es wird darauf hingewiesen, dass Links von den Seiten der BUNDjugend Berlin zu externen Anbietern führen, sobald der Rahmen von www.carEXIT.org verlassen wird und sich ein neues Browserfenster öffnet oder die Seiten gesondert gekennzeichnet sind. Für die Richtigkeit des Inhalts der externen Seiten übernimmt die BUNDjugend Berlin keine Verantwortung, vielmehr unterliegen sie der Haftung der jeweiligen Anbieter*innen. Dies gilt auch für die Rechtmäßigkeit oder die Erfüllung von Urheberrechtsbestimmungen der verlinkten Seiten sowie für deren Aktualität. Durch eine Verlinkung auf externe Seiten macht sich die BUNDjugend Berlin diese nicht zu Eigen. Vielmehr dienen die Links und Inhalte dem Informationsaustausch und begründen keine geschäftlichen Beziehungen irgendeiner Art. Die BUNDjugend Berlin distanziert sich ausdrücklich von eventuell rechtswidrigen Inhalten der verlinkten Seiten. Der Inhalt der Seiten wird nur zum Zeitpunkt der Aufnahme geprüft.
