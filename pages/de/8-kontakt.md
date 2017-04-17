@@ -11,7 +11,7 @@ permalink: /
 
 
 ### Impressum
-www.carexit.org ist die Homepage des Arbeitskreises FahrradBande der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin. Angaben gemäß § 5 TMG:
+www.carexit.org ist die Homepage des Arbeitskreises FahrradBande der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin [BUNDjugend-Berlin.de](https://www.bundjugend-berlin.de/). Angaben gemäß § 5 TMG:
 
 BUNDjugend Berlin
 
@@ -24,6 +24,8 @@ Erich-Weinert-Straße 82
 Tel.: 030 – 392 82 80
 
 E-Mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+
+Die Domain www.carEXIT.org wird vom Landesprogramm [jugendnetz-berlin](http://www.jugendnetz-berlin.de/) kostenlos gehostet.
 
 ***
 
