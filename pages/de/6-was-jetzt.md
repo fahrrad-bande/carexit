@@ -31,9 +31,9 @@ Ihr Fahrrad ist kaputt und Sie möchten es am liebsten selbst reparieren? Dann g
 ***
 
 ### Gemeinsam fahren
-Sie suchen freundliche Menschen, mit denen Sie gemeinsam Fahrradfahren können? Über die [mitRADgelegenheit](http://mitradgelegenheit.org/die-mitradgelegenheit/) finden Sie mitRadler für Ihre alltäglichen Wege. Wenn Sie Ihre Stadt  vom Rad aus erkunden wollen, nehmen Sie an einem [Allycat](https://de.wikipedia.org/wiki/Alleycat), der Schnitzeljagd auf dem Fahrrad, teil.
+Sie suchen freundliche Menschen, mit denen Sie gemeinsam Fahrradfahren können? Über die [mitRADgelegenheit](http://mitradgelegenheit.org/die-mitradgelegenheit/) finden Sie mitRadler für Ihre alltäglichen Wege. Wenn Sie Ihre Stadt  vom Rad aus erkunden wollen, nehmen Sie an einem [Alleycat](https://de.wikipedia.org/wiki/Alleycat), der Schnitzeljagd auf dem Fahrrad, teil.
 
 ***
 
 ### Im Urlaub aufsatteln
-Mit dem Fahrrad können Sie Deutschland neu entdecken! Auf einer [Radtour](http://www.adfc.de/ausruestung/checkliste-fuer-den-fahrradurlaub) lernen Sie Land und Leute bestens kennen:Es gibt überall gut ausgebaute Radwege und viele Pensionen, in denen Sie andere Radler treffen. Für ein größeres Abenteuer packen Sie Ihr Zelt ein und übernachten unter den Sternen.
+Mit dem Fahrrad können Sie Deutschland neu entdecken! Auf einer [Radtour](http://www.adfc.de/ausruestung/checkliste-fuer-den-fahrradurlaub) lernen Sie Land und Leute bestens kennen: Es gibt überall gut ausgebaute Radwege und viele Pensionen, in denen Sie andere Radler treffen. Für ein größeres Abenteuer packen Sie Ihr Zelt ein und übernachten unter den Sternen.

@@ -1,0 +1,10 @@
+{% assign pages = site.html_pages | sort: "order" %}
+{% for subpage in pages %}
+  {% if subpage.link_title and subpage.language == page.language %}
+    {% if subpage.section_layout %}
+      {% include {{ subpage.section_layout }}.html page=subpage nr=forloop.index  class=subpage.section_class %}
+    {% else %}
+      {{ subpage.content }}
+    {% endif %}
+  {% endif %}
+{% endfor %}

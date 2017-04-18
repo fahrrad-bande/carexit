@@ -1,9 +1,9 @@
-<section class="" id="landing-section">
+<section id="landing-section">
   <a id="home" class="anchor"></a>
   <div class="container landing-container">
     <div class="row">
       <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-4 col-md-3 col-md-offset-0">
-        <img src="http://placehold.it/243x44" class="img-responsive landing-logo">
+        <img src="{{ "/assets/img/logo_small.png" | prepend: site.github.url }}" class="img-responsive landing-logo">
       </div>
       <div class="landing-nav col-xs-12 col-md-7 col-md-offset-2" id="landing-nav">
         <ul>
@@ -18,9 +18,9 @@
             <a href="https://TODO" target="_blank" class="nav-button donate-button">donate</a>
           </li>-->
           <li>
-            <a href="../de" class="nav-button lang_de"><i class="icon-globe"></i>de</a>
-            <a href="../br" class="nav-button lang_br"><i class="icon-globe"></i>br</a>
-            <a href="../gr" class="nav-button lang_gr"><i class="icon-globe"></i>gr</a>
+            {% for language in site.languages %}
+              <a href="../{{language}}" class="nav-button lang_{{language}}"><i class="icon-globe"></i>{{language}}</a>
+            {% endfor %}
           </li>
         </ul>
       </div>
@@ -28,8 +28,9 @@
     <div class="row video">
       <div class="col-xs-12">
         <div class="embed-responsive embed-responsive-16by9 landing-video" id="waypoint">
-            <img src="http://placehold.it/1140x641" alt="" />
+          <iframe src="https://player.vimeo.com/video/42934682" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>
+        <h1>{{ include.title }}</h1>
       </div>
     </div>
   </div>

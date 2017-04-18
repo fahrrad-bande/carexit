@@ -20,12 +20,12 @@ Das Unfallrisiko beim Radfahren ist [geringer](http://www.zeit.de/mobilitaet/201
 ***
 
 ### Die Regeln kennen
-Das Gute ist: Als Autofahrer kennen Sie die Regeln schon. Ersetzen Sie den Blinker mit ausladenden Handzeichen. Radwege mit einem blauen Schild sind pflichtweise zu befahren. Und Achtung an der Ampel:Radfahrer haben oft ihre eigenen Lichtzeichen und fahren zuerst.
+Das Gute ist: Als Autofahrer kennen Sie die Regeln schon. Ersetzen Sie den Blinker mit ausladenden Handzeichen. Radwege mit einem blauen Schild sind pflichtweise zu befahren. Und Achtung an der Ampel: Radfahrer haben oft ihre eigenen Lichtzeichen und fahren zuerst.
 
 ***
 
 ### Wetterfest werden
-Es gibt kein schlechtes [Wetter](hhttp://www.rad-spannerei.de/blog/2014/09/08/radfahren-und-regenwahrscheinlichkeit/),... Das sagt sich leicht. In der kühlen Jahreszeit ist Radfahren eine [Herausforderung](http://www.adfc.de/gesundheit/richtig-rad-fahren/praxis-tipps-fuer-alltagsradler/seite-9-rad-kleidung). Wir empfehlen: Fangen Sie im Sommer an und tasten Sie sich langsam heran. Im Herbst wird der Regenradar Ihr bester Freund und irgendwann gesellt sich eine Wollmütze zu Regenjacke und -hose.
+Es gibt kein schlechtes [Wetter](http://www.rad-spannerei.de/blog/2014/09/08/radfahren-und-regenwahrscheinlichkeit/),... Das sagt sich leicht. In der kühlen Jahreszeit ist Radfahren eine [Herausforderung](http://www.adfc.de/gesundheit/richtig-rad-fahren/praxis-tipps-fuer-alltagsradler/seite-9-rad-kleidung). Wir empfehlen: Fangen Sie im Sommer an und tasten Sie sich langsam heran. Im Herbst wird der Regenradar Ihr bester Freund und irgendwann gesellt sich eine Wollmütze zu Regenjacke und -hose.
 
 ***
 

@@ -3,6 +3,7 @@ link_title: Test
 anchor_id: ready
 order: 3
 language: br
+section_class: yellow
 permalink: /
 ---
 <section class="" id="ready-exit-section">
