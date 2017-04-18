@@ -142,6 +142,20 @@ body {
     margin: 0 10%
 }
 
+#evaluation {
+    margin: 20px 30px;
+}
+
+#evaluation h3 {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+}
+
+#evaluation p {
+    font-size: 1.8rem;
+    font-weight: normal;
+}
+
 #msform fieldset:not(:first-of-type) {
     display: none
 }
