@@ -42,11 +42,11 @@
 }
 
 span.social-box i.social-inner {
-    color: #fff
+    color: #154989
 }
 
 span.social-box i.social-outer {
-    color: #59c7ed
+    color: #fff
 }
 
 p>a {
@@ -318,7 +318,7 @@ a.anchor {
 .nav-button:focus {
     text-decoration: none;
     background-color: #fff;
-    color: #42bfeb
+    color: #154989
 }
 
 .nav-button {
@@ -358,10 +358,6 @@ a.anchor {
 
 #landing-nav>.fa-circle {
     color: #d7b6b6
-}
-
-.fa-circle {
-    color: #42bfeb
 }
 
 .main-nav ul li {
@@ -409,7 +405,7 @@ a.anchor {
 
 .sub-nav ul li .button:hover {
     background-color: #fff;
-    color: #42bfeb
+    color: #154989
 }
 
 .navbar-logo {
@@ -540,7 +536,7 @@ ul.nav.navbar-nav.main-nav {
 .navbar-right>li>a.nav-button:hover,
 .navbar-right>li>a.nav-button:focus {
     background-color: #fff;
-    color: #42bfeb
+    color: #154989
 }
 
 @media (max-width:340px) {

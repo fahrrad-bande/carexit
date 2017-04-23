@@ -5,7 +5,7 @@
 .lang_{{language}} .nav-button.lang_{{language}} {
     text-decoration: none;
     background-color: #fff;
-    color: #42bfeb;
+    color: #154989;
 }
 {% endfor %}
 
