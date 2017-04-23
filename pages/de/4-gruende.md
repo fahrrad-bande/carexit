@@ -1,7 +1,8 @@
 ---
 link_title: Bedenken?
 anchor_id: gruende
-title: Noch Bedenken?<br>6 gute Gründe für den Umstieg
+title: Noch Bedenken?
+subtitle: 6 gute Gründe für den Umstieg
 order: 4
 language: de
 section_layout: section_six
