@@ -26,6 +26,10 @@
     <div class="col-sm-4">
       {{ title }}
       {{ body }}
+      {% if forloop.index == 3 %}
+        </div>
+        <div class="row row-items hidden-xs visible-sm visible-md visible-lg">
+      {% endif %}
       {% comment %}
       <div id="coll-{{ forloop.index }}" class="accordion-body collapse">
         <div class="accordion-inner">{{ q | last }}</div>

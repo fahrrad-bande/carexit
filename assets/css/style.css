@@ -51,7 +51,7 @@ span.social-box i.social-outer {
 
 p>a {
     text-decoration: underline;
-    color: #17c28c
+    color: #f7a600
 }
 
 p>a:hover {
@@ -303,29 +303,11 @@ a.anchor {
     visibility: hidden
 }
 
-h1 {
-    font-family: 'novecento', 'texgyreheros';
-    text-transform: uppercase;
-    font-weight: normal;
-    text-align: center;
-}
-
  .img-icons img {
    display: block;
     margin: 0 auto;
 
  }
-
-h3 {
-    font-family: 'novecento', 'texgyreheros';
-    font-weight: bold;
-    font-size: 16pt;
-    border-bottom: 2px solid #17c28c;
-
-    display: block;
-    padding-bottom: 3px;
-    text-transform: uppercase
-}
 
 .landing-nav ul li {
     display: inline;
@@ -754,19 +736,8 @@ input[type='checkbox'] {
     }
 }
 
-h2 {
-    color: #fff;
-    text-transform: uppercase;
-    display: inline;
-    font-weight: 300
-}
-
 label {
     display: block
-}
-
-h3 {
-    color: #17c28c
 }
 
 p {
@@ -811,11 +782,6 @@ a.read-more:hover {
     color: #17c28c;
     text-decoration: none;
     border-color: #17c28c;
-}
-
-.tab-pane h3 {
-    margin-top: 0;
-    color: #17c28c
 }
 
 .nav>li>a:hover,
