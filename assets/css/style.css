@@ -161,7 +161,7 @@ body {
 }
 
 #msform .action-button {
-    background: #17c28c;
+    background: #154989;
     font-weight: bold;
     color: #fff;
     border: 0 none;
@@ -220,7 +220,7 @@ body {
     display: block;
     font-size: 25px;
     color: #fff;
-    background: #17c28c;
+    background: #154989;
     border-radius: 3px;
     margin: 0 auto 5px auto
 }
@@ -518,7 +518,7 @@ ul.nav.navbar-nav.main-nav {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #59c7ed
+    background-color: #f7a600
 }
 
 .navbar-right a.nav-button {
@@ -635,8 +635,8 @@ ul.nav.navbar-nav.navbar-right {
 }
 
 #progressbar li:last-child:before {
-    content: 'exit';
-    width: 70px
+    content: 'carExit';
+    width: 110px
 }
 
 .navbar-collapse {
@@ -717,7 +717,7 @@ input[type='checkbox'] {
 }
 
 .question>h3 {
-    color: #17c28c
+    color: #154989
 }
 
 @media (min-width:768px) {
@@ -790,11 +790,11 @@ a.read-more:hover {
     text-transform: uppercase;
     font-weight: bold;
     color: #fff;
-    background-color: #17c28c
+    background-color: #154989
 }
 
 .panel-default>.panel-heading:hover {
-    background-color: #59c7ed
+    background-color: #f7a600
 }
 
 .panel-title>a,
@@ -802,7 +802,7 @@ a.read-more:hover {
 .panel-title>.small,
 .panel-title>small>a,
 .panel-title>.small>a {
-    color: inherit;
+    color: #fff !important;
     display: block;
     font-weight: bold;
     text-decoration: none

@@ -6,6 +6,7 @@ subtitle: 6 gute Gründe für den Umstieg
 order: 4
 language: de
 section_layout: section_six
+section_class: bright
 permalink: /
 ---
 
@@ -21,6 +22,8 @@ Fahrradfahren macht einfach Spaß. Durch die Bewegung und den Fahrtwind in den H
 
 ### Schneller am Ziel
 Strecken bis zu 5 Kilometern legen deutsche Großstädter radelnd [schneller](http://www.umweltbundesamt.de/themen/verkehr-laerm/nachhaltige-mobilitaet/radverkehr#textpart-2) zurück als mit dem Auto. Aber auch für [längere](http://www.urbanist-magazin.de/2015/06/das-konzept-der-effektiven-geschwindigkeit/) Wege lohnt sich der Umstieg: Radfahrer stecken nie im Stau, können besser abkürzen und finden immer sofort einen Parkplatz.
+
+<a href="http://www.umweltbundesamt.de/themen/verkehr-laerm/nachhaltige-mobilitaet/radverkehr#textpart-2" target="_blank">umweltbundesamt.de</a>
 
 ***
 

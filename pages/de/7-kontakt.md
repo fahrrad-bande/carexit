@@ -24,7 +24,7 @@ Die Domain www.carEXIT.org wird vom Landesprogramm [jugendnetz-berlin](http://ww
 Du bist bereit für deinen persönlichen **car**EXIT, hast Frage oder
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-[Impressum & Rechtliches](de/impressum.html)
+[Impressum & Rechtliches](impressum.html)
 
 ***
 

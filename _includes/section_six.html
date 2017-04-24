@@ -2,14 +2,14 @@
 {% assign questions = include.page.content | split: "<hr />" %}
 <div class="row hidden-sm hidden-md hidden-lg visible-xs">
   <div class="col-xs-12">
-    <div class="panel-group" id="panels1">
+    <div class="panel-group" id="panels-{{include.page.anchor_id}}">
       {% for question in questions %}
         {% assign question_split = question | split: splitby %}
         {% assign title = question_split | first | strip_html %}
         {% assign body =  question_split | last %}
         <div class="panel panel-default">
-          <div class="panel-heading"><h4 class="panel-title"><a data-toggle="collapse" data-parent="#panels1" href="#nc-{{ forloop.index }}">{{ title }}</a></h4></div>
-          <div id="nc-{{ forloop.index }}" class="panel-collapse collapse">
+          <div class="panel-heading"><h4 class="panel-title"><a data-toggle="collapse" data-parent="#panels-{{include.page.anchor_id}}" href="#nc-{{include.page.anchor_id}}-{{ forloop.index }}">{{ title }}</a></h4></div>
+          <div id="nc-{{include.page.anchor_id}}-{{ forloop.index }}" class="panel-collapse collapse">
             <div class="panel-body">{{ body }}</div>
           </div>
         </div>

@@ -5,6 +5,7 @@ title: Umstieg geschafft, was kommt jetzt?
 order: 6
 language: de
 section_layout: section_six
+section_class: bright
 permalink: /
 ---
 

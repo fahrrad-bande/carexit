@@ -12,20 +12,20 @@
 h1 {
   font-family: 'Source Sans Pro';
   color:  #555555;
-  font-size: 50px;
+  font-size: 4.5em;
   font-weight: 200;
-  letter-spacing: 0.4px;
-  line-height: 50px;
+  letter-spacing: 0.005em;
+  line-height: 1;
   text-align: center;
 }
 
 h2 {
   font-family: 'Source Sans Pro';
   color:  #555555;
-  font-size: 20px;
+  font-size: 1.875em;
   font-weight: 600;
-  letter-spacing: 0.15px;
-  line-height: 40px;
+  letter-spacing: 0.005em;
+  line-height: 2;
   text-align: center;
 }
 
@@ -44,7 +44,7 @@ section {
 }
 
 section.blue {
-    background-color: #17558C;
+    background-color: #154989;
     color: #FFF;
 }
 
@@ -58,4 +58,13 @@ section.blue h2 {
 
 section.yellow {
     background-color: #F29F04;
+}
+
+section.bright {
+    background-color: #FAFAFA;
+}
+
+section.bright h3,
+section.bright a {
+  color: #17558C;
 }
