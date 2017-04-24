@@ -6,7 +6,7 @@ permalink: de/impressum.html
 
 
 ### Impressum
-www.carEXIT.org ist die Homepage des Arbeitskreises [FahrradBande](http://mitradgelegenheit.org/) der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin ([BUNDjugend-Berlin.de](https://www.bundjugend-berlin.de/)). Angaben gemäß § 5 TMG:
+**car**EXIT ist ein Projekt der [FahrradBande](http://mitradgelegenheit.org/) aus Berlin.der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin ([BUNDjugend-Berlin.de](https://www.bundjugend-berlin.de/)). Angaben gemäß § 5 TMG:
 
 BUNDjugend Berlin, Jugend im Bund für Umwelt und Naturschutz Berlin e.V., Erich-Weinert-Straße 82, 10439 Berlin
 
