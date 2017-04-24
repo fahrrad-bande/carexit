@@ -1,5 +1,5 @@
 ---
-link_title: Fahrradwelt
+link_title: MUNDO DA BICICLETA
 anchor_id: how-to
 title: Saída completa agora?
 order: 6
