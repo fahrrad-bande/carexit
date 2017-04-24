@@ -1,23 +1,6 @@
 {% assign pages = site.html_pages | sort: "order" %}
 {% for subpage in pages %}
   {% if subpage.link_title and subpage.language == page.language %}
-    <section id="s-{{ subpage.anchor_id }}" class="{{ subpage.section_class }}">
-        <a id="{{ subpage.anchor_id }}" class="anchor"></a>
-        <div class="container landing-container">
-          {% if subpage.title %}
-            <div class="row">
-                <div class="col-xs-12">
-                    <h1>{{ subpage.title }}</h1>
-                    {% if subpage.subtitle %}<h2>{{ subpage.subtitle }}</h2>{% endif %}
-                </div>
-            </div>
-          {% endif %}
-          {% if subpage.section_layout %}
-            {% include {{ subpage.section_layout }}.html page=subpage nr=forloop.index %}
-          {% else %}
-            {{ subpage.content }}
-          {% endif %}
-        </div>
-    </section>
+    {% include subpage.html page=subpage %}
   {% endif %}
 {% endfor %}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{page.language}}">
+    {% include head.html %}
+
+    <body class="lang_{{page.language}}">
+      <section id="s-{{ include.page.anchor_id }}" class="{{ include.page.section_class }}">
+        <div class="row row-items">
+          <div class="col-sm-12">
+            {{ content }}
+          </div>
+        </div>
+      </section>
+
+      {% include foot.html %}
+    </body>
+</html>

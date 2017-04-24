@@ -21,4 +21,4 @@ carEXIT unterstützt Menschen dabei, vom Auto auf das Fahrrad umzusteigen.
 ***
 
 ## Was bietet **car**EXIT?
-carEXIT bietet Ihnen die nötigen Argumente und Ansatzpunkte für einen erfolgreichen Umstieg. Sie erfahren alles über das Radfahren als moderne und freudebringende Fortbewegungsart und erhalten hilfreiche Tipps für die ersten Schritte, ...äh Tritte.
+**car**EXIT bietet Ihnen die nötigen Argumente und Ansatzpunkte für einen erfolgreichen Umstieg. Sie erfahren alles über das Radfahren als moderne und freudebringende Fortbewegungsart und erhalten hilfreiche Tipps für die ersten Schritte, ...äh Tritte.

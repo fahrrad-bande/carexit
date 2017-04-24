@@ -1,0 +1,18 @@
+<section id="s-{{ include.page.anchor_id }}" class="{{ include.page.section_class }}">
+    <a id="{{ include.page.anchor_id }}" class="anchor"></a>
+    <div class="container landing-container">
+      {% if include.page.title %}
+        <div class="row">
+            <div class="col-xs-12">
+                <h1>{{ include.page.title }}</h1>
+                {% if include.page.subtitle %}<h2>{{ include.page.subtitle }}</h2>{% endif %}
+            </div>
+        </div>
+      {% endif %}
+      {% if include.page.section_layout %}
+        {% include {{ include.page.section_layout }}.html page=include.page nr=forloop.index %}
+      {% else %}
+        {{ include.page.content }}
+      {% endif %}
+    </div>
+</section>

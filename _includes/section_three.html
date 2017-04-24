@@ -6,7 +6,7 @@
       {% assign question_split = question | split: splitby %}
       {% assign title = question_split | first | append: splitby %}
       {% assign body =  question_split | last %}
-      <div class="col-sm-12">
+      <div class="col-md-offset-2 col-md-8 col-sm-12">
         {{ title }}
         {{ body }}
       </div>

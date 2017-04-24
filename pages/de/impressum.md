@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: impressum
 language: de
 permalink: de/impressum.html
 ---
