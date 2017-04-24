@@ -10,13 +10,7 @@ permalink: /
 ---
 
 ### Über Uns
-www.carEXIT.org ist die Homepage des Arbeitskreises [FahrradBande](http://mitradgelegenheit.org/) der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin ([BUNDjugend-Berlin.de](https://www.bundjugend-berlin.de/)). Angaben gemäß § 5 TMG:
-
-BUNDjugend Berlin, Jugend im Bund für Umwelt und Naturschutz Berlin e.V., Erich-Weinert-Straße 82, 10439 Berlin
-
-Tel.: 030 – 392 82 80, E-Mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-
-Die Domain www.carEXIT.org wird vom Landesprogramm [jugendnetz-berlin](http://www.jugendnetz-berlin.de/) kostenlos gehostet.
+**car**EXIT ist ein Projekt der [FahrradBande](http://mitradgelegenheit.org/) aus Berlin.
 
 ***
 
@@ -32,7 +26,4 @@ Du bist bereit für deinen persönlichen **car**EXIT, hast Frage oder
 Presseanfragen gehen bitte an:
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-* Broschüre
-* Presse-Informationen
-* Bilder
 
