@@ -1,5 +1,5 @@
 ---
-link_title: Über carEXIT
+link_title: Sobre carEXIT
 anchor_id: about
 order: 2
 language: br
