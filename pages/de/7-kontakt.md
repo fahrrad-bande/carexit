@@ -17,7 +17,7 @@ permalink: /
 ***
 
 ### Kontakt
-Du bist bereit für deinen persönlichen **car**EXIT, hast Frage, Kritik oder Anregungen, dann schreibe uns:
+Du bist bereit für deinen persönlichen **car**EXIT, hast Fragen, Kritik oder Anregungen, dann schreibe uns:
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 ***
