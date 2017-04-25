@@ -5,6 +5,7 @@ title: Saída completa agora?
 order: 6
 language: br
 section_layout: section_six
+section_class: bright
 permalink: /
 ---
 
