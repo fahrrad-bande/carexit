@@ -1,5 +1,5 @@
 ---
-link_title: Disclaimer
+link_title: στοιχεία
 anchor_id: contact
 title:
 order: 7
@@ -10,12 +10,12 @@ permalink: /
 ---
 
 ### Disclaimer
-O **car**EXIT é um projeto da [FahrradBande](http://mitradgelegenheit.org/) da Alemanha e traduzido/adaptado para o português pelo [Bike Anjo](http://bikeanjo.org/).
+**car**EXIT is project of the [FahrradBande](http://mitradgelegenheit.org/) Berlin. The Greek translation was done by Elli Skliva.
 
-[alemã aviso legal](impressum.html)
+[στοιχεία](impressum.html)
 
 ***
 
-### Kontakt
+### Contact
 For more information about **car**EXIT International and the **FahrradBande** please contact:
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
