@@ -6,6 +6,7 @@ subtitle: 6 boas razões para sair do carro
 order: 4
 language: br
 section_layout: section_six
+section_class: bright
 permalink: /
 ---
 
