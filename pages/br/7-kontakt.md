@@ -1,5 +1,5 @@
 ---
-link_title: Kontakt
+link_title: Disclaimer
 anchor_id: contact
 title:
 order: 7
