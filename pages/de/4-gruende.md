@@ -21,9 +21,11 @@ Fahrradfahren macht einfach Spaß. Durch die Bewegung und den Fahrtwind in den H
 ***
 
 ### Schneller am Ziel
-Strecken bis zu 5 Kilometern legen deutsche Großstädter radelnd [schneller](http://www.umweltbundesamt.de/themen/verkehr-laerm/nachhaltige-mobilitaet/radverkehr#textpart-2) zurück als mit dem Auto. Aber auch für [längere](http://www.urbanist-magazin.de/2015/06/das-konzept-der-effektiven-geschwindigkeit/) Wege lohnt sich der Umstieg: Radfahrer stecken nie im Stau, können besser abkürzen und finden immer sofort einen Parkplatz.
+Strecken bis zu 5 Kilometern legen deutsche Großstädter radelnd schneller zurück als mit dem Auto. Aber auch für längere Wege lohnt sich der Umstieg: Radfahrer stecken nie im Stau, können besser abkürzen und finden immer sofort einen Parkplatz.
 
 <a href="http://www.umweltbundesamt.de/themen/verkehr-laerm/nachhaltige-mobilitaet/radverkehr#textpart-2" target="_blank">umweltbundesamt.de</a>
+
+<a href="http://www.urbanist-magazin.de/2015/06/das-konzept-der-effektiven-geschwindigkeit/" target="_blank">urbanist-magazin.de</a>
 
 ***
 
