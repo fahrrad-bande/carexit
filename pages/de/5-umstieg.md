@@ -1,6 +1,6 @@
 ---
 link_title: Umstieg
-anchor_id: how-to
+anchor_id: umstieg
 title: Wie gelingt der Umstieg?
 order: 5
 language: de

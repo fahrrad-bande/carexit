@@ -1,6 +1,6 @@
 ---
 link_title: Kontakt
-anchor_id: contact
+anchor_id: kontakt
 title:
 order: 7
 language: de
@@ -26,6 +26,6 @@ Sie sind bereit für Ihren persönlichen **car**EXIT, haben Fragen, Kritik oder 
 Presseanfragen gehen bitte an:
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-<a href="http://mitradgelegenheit.org/wp-content/uploads/2016/03/Logos.zip" target="_blank">Download Logoset als .zip © Fahrrad Bande</a> 
+<a href="http://mitradgelegenheit.org/wp-content/uploads/2016/03/Logos.zip" target="_blank">Download Logoset als .zip © Fahrrad Bande</a>
 
 
