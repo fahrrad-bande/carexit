@@ -28,7 +28,12 @@ permalink: /
 ### Ποδηλασία με παρέα
 Δεν θέλεις να κάνεις ποδήλατο μόνος; Ψάξε στο διαδίκτυο για ποδηλατικές βόλτες που οργανώνονται στην πόλη σου. 
 
-[odilates.gr](https://www.podilates.gr/), [cyclist.gr](http://www.cyclist.gr/), [filoi-podilatou.gr](http://www.filoi-podilatou.gr/)
+<a href="https://www.podilates.gr/)" target="_blank">podilates.gr</a>
+
+<a href="http://www.cyclist.gr/" target="_blank">cyclist.gr</a>
+
+<a href="http://www.filoi-podilatou.gr/" target="_blank">filoi-podilatou.gr</a>
+
 
 ***
 
