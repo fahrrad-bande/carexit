@@ -45,4 +45,4 @@ Você está procurando por uma pessoa com quem possa pedalar junto? Com o Bike A
 ### Cicloturismo
 Descubra um mundo completamente nova durante uma cicloviagem. Equipado com alforjes você pedala através do campo e passa a noite pelo seu caminho em casas de hospedagem. Se você quiser ter uma pequena aventura, embale seu saco de dormir e tenda – procure por um bom lugar para acampar no caminho. Conheça os roteiros no Brasil.
 
-<a href="http://www.clubedecicloturismo.com.br/" target="_blank">clubedecicloturismo.com.br/a>
+<a href="http://www.clubedecicloturismo.com.br/" target="_blank">clubedecicloturismo.com.br</a>
