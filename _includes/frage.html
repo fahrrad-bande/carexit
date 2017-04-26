@@ -1,0 +1,35 @@
+<fieldset>
+  <div class="row">
+    <div class="question col-xs-12"><h3>{{ include.title }}</h3></div>
+  </div>
+  <div class="answers">
+    <div class="answer clearfix">
+      <div class="answer-checkbox">
+        {% capture offset %}{{ include.offset | plus: 1 }}{% endcapture %}
+        <input type="radio" id="{{ offset }}" name="{{ offset }}" value="{{ offset }}">
+      </div>
+      <div class="answer-label">
+        <label for="{{ offset }}" class="">{{ include.option1 }}</label>
+      </div>
+    </div>
+    <div class="answer clearfix">
+      <div class="answer-checkbox">
+        {% capture offset %}{{ include.offset | plus: 2 }}{% endcapture %}
+        <input type="radio" id="{{ offset }}" name="{{ offset }}" value="{{ offset }}">
+      </div>
+      <div class="answer-label">
+        <label for="{{ offset }}" class="">{{ include.option2 }}</label>
+      </div>
+    </div>
+    <div class="answer clearfix"><div class="answer-checkbox">
+      {% capture offset %}{{ include.offset | plus: 3 }}{% endcapture %}
+      <input type="radio" id="{{ offset }}" name="{{ offset }}" value="{{ offset }}">
+    </div>
+    <div class="answer-label">
+      <label for="{{ offset }}" class="">{{ include.option3 }}</label>
+      </div>
+    </div>
+  </div>
+  {% if include.next %}<input type="button" name="{{ include.next }}" class="next action-button" value="{{ include.next }}">{% endif %}
+  {% if include.previous %}<input type="button" name="{{ include.previous }}" class="previous action-button" value="{{ include.previous }}">{% endif %}
+</fieldset>
