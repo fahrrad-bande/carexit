@@ -32,7 +32,7 @@ $('#landing-section').waypoint(function(direction) {
 
 var current_fs, next_fs, previous_fs;
 var left, opacity, scale;
-var animating;
+var animating, done;
 
 $(".next").click(function(){
 	if(animating) return false;
@@ -88,24 +88,24 @@ $(".submit").click(function(){
 })
 
 $("fieldset").last().on('show', function() {
-	var selected = $("input[type='radio']:checked");
-	console.log(selected);
-	var sum = 0;
-	for (index = 0; index < selected.length; ++index) {
-		if (selected[index].value !== null) {
-			sum += parseInt(selected[index].value);
-		}
-	}
+  if(done) return false;
+  done = true;
+
+  var sum = 0;
+  $("input[type='radio']:checked").each(function(index, elem) {
+    sum += parseInt($(elem).val());
+  });
 	console.log(sum);
+
 	switch(true) {
 		case (sum < 5):
-			$('#evaluation').html(unsichere);
+			$('#evaluation .result1').show();
 			break;
 		case (sum > 8):
-			$('#evaluation').html(ueberzeugte);
+			$('#evaluation .result2').show();
 			break;
 		default:
-			$('#evaluation').html(zweifler);
+			$('#evaluation .result3').show();
 			break;
 	}
 });

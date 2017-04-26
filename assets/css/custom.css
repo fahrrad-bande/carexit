@@ -68,3 +68,7 @@ section.bright h3,
 section.bright a {
   color: #17558C;
 }
+
+fieldset #evaluation div {
+  display: none;
+}

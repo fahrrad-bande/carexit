@@ -6,71 +6,49 @@ subtitle: Descubra quão próximo você está do carEXIT.
 order: 3
 language: br
 section_class: yellow
+section_layout: section_umfrage
 permalink: /
 ---
-<script type="text/javascript">
-  var ueberzeugte = '<div class="question"><h3>O convencido</h3></div><div class="answers"><p>ainda não conseguiu se desapegar do carro, simplesmente porque ele é muito conveniente. Para você, as vantagens de usar seu carro vão muito além de pedalar, e por isso algumas vezes você se pergunta se uma "saída" é possível. Nós gostaríamos de apoiar você nesses primeiros passos - dar um ponto de partida à ideia de usar a bicicleta em vez do carro.</p></div></div>';
-  var unsichere = '<div class="question"><h3>Os duvidosos</h3></div><div><p>você claramente reconhece os benefícios de pedalar, mas você ainda está atento às consequências dessa mudança para você. Nós garantimos: de bicicleta você pode pedalar quase 100 porcento dos seus percursos na cidade. Continue lendo para descobrir como essa mudança pode acontecer para você.</p></div></div>';
-  var zweifler = '<div class="question"><h3>Os inseguros</h3></div><div><p>você acredita na bicicleta como um meio de transporte, mas se se sente inseguro e com medo de pedalar na rua? Então você está no lugar certo. Você não pode mudar de um dia para o outro, portanto tome o tempo que precisar e encontre as pessoas certas para te ajudarem. Nós garantimos a você que o prazer de pedalar é maior do que o medo.</p></div></div>';
-</script>
-<div class="row">
-  <div class="col-xs-12">
-    <form id="msform" action="" method="" target="_blank">
-      <ul id="progressbar">
-        <li class="active"></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
+{% include frage.html
+    title="Quando eu penso em um carro, sinto..."
+    option1="Um embrulho no estômago"
+    option2="Uma sensação de normalidade"
+    option3="Mal humor"
+    next="continuar"
+%}
 
-      {% include frage.html
-          offset=0
-          title="Quando eu penso em um carro, sinto..."
-          option1="Um embrulho no estômago"
-          option2="Uma sensação de normalidade"
-          option3="Mal humor"
-          next="continuar"
-      %}
+{% include frage.html
+    title="Meu fator de estresse ao dirigir numa escala de 1 a 10 é..."
+    option1="1 a 3"
+    option2="4 a 7"
+    option3="8 a 10"
+    next="continuar"
+    previous="para trás"
+%}
 
-      {% include frage.html
-          offset=3
-          title="Meu fator de estresse ao dirigir numa escala de 1 a 10 é..."
-          option1="1 a 3"
-          option2="4 a 7"
-          option3="8 a 10"
-          next="continuar"
-          previous="para trás"
-      %}
+{% include frage.html
+    title="Quando eu penso em pedalar..."
+    option1="penso nos meus amigos ciclistas bem treinados, atletas e bem humorados"
+    option2="meu lado fraco diz “Olá”"
+    option3="Fico com medo"
+    next="continuar"
+    previous="para trás"
+%}
 
-      {% include frage.html
-          offset=6
-          title="Quando eu penso em pedalar..."
-          option1="penso nos meus amigos ciclistas bem treinados, atletas e bem humorados"
-          option2="meu lado fraco diz “Olá”"
-          option3="Fico com medo"
-          next="continuar"
-          previous="para trás"
-      %}
+{% include frage.html
+    title="Eu..."
+    option1="nunca pensei em trocar meu carro pela bike"
+    option2="pensei frequentemente em ser um ciclista quando estava dirigindo"
+    option3="sonho em pedalar em direção ao pôr do sol"
+    next="continuar"
+    previous="para trás"
+%}
 
-      {% include frage.html
-          offset=9
-          title="Eu..."
-          option1="nunca pensei em trocar meu carro pela bike"
-          option2="pensei frequentemente em ser um ciclista quando estava dirigindo"
-          option3="sonho em pedalar em direção ao pôr do sol"
-          next="continuar"
-          previous="para trás"
-      %}
-
-      <fieldset>
-        <div class="row" id="evaluation">
-          <div class=" question">
-            <h3>Parabéns!</h2>
-          </div>
-          <div><p></p></div>
-        </div>
-    </form>
-  </div>
-</div>
+{% include antwort.html
+  title1="O convencido"
+  text1="ainda não conseguiu se desapegar do carro, simplesmente porque ele é muito conveniente. Para você, as vantagens de usar seu carro vão muito além de pedalar, e por isso algumas vezes você se pergunta se uma 'saída' é possível. Nós gostaríamos de apoiar você nesses primeiros passos - dar um ponto de partida à ideia de usar a bicicleta em vez do carro."
+  title2="Os duvidosos"
+  text2="você claramente reconhece os benefícios de pedalar, mas você ainda está atento às consequências dessa mudança para você. Nós garantimos: de bicicleta você pode pedalar quase 100 porcento dos seus percursos na cidade. Continue lendo para descobrir como essa mudança pode acontecer para você."
+  title3="Os inseguros"
+  text3="você acredita na bicicleta como um meio de transporte, mas se se sente inseguro e com medo de pedalar na rua? Então você está no lugar certo. Você não pode mudar de um dia para o outro, portanto tome o tempo que precisar e encontre as pessoas certas para te ajudarem. Nós garantimos a você que o prazer de pedalar é maior do que o medo."
+%}

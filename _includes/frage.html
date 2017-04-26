@@ -1,3 +1,4 @@
+{% capture question %}{{ question | plus: 1 }}{% endcapture %}
 <fieldset>
   <div class="row">
     <div class="question col-xs-12"><h3>{{ include.title }}</h3></div>
@@ -5,8 +6,8 @@
   <div class="answers">
     <div class="answer clearfix">
       <div class="answer-checkbox">
-        {% capture offset %}{{ include.offset | plus: 1 }}{% endcapture %}
-        <input type="radio" id="{{ offset }}" name="{{ include.offset }}" value="1">
+        {% capture offset %}{{ offset | plus: 1 }}{% endcapture %}
+        <input type="radio" id="{{ offset }}" name="{{ question }}" value="1">
       </div>
       <div class="answer-label">
         <label for="{{ offset }}" class="">{{ include.option1 }}</label>
@@ -14,8 +15,8 @@
     </div>
     <div class="answer clearfix">
       <div class="answer-checkbox">
-        {% capture offset %}{{ include.offset | plus: 2 }}{% endcapture %}
-        <input type="radio" id="{{ offset }}" name="{{ include.offset }}" value="2">
+        {% capture offset %}{{ offset | plus: 1 }}{% endcapture %}
+        <input type="radio" id="{{ offset }}" name="{{ question }}" value="2">
       </div>
       <div class="answer-label">
         <label for="{{ offset }}" class="">{{ include.option2 }}</label>
@@ -23,8 +24,8 @@
     </div>
     <div class="answer clearfix">
       <div class="answer-checkbox">
-        {% capture offset %}{{ include.offset | plus: 3 }}{% endcapture %}
-        <input type="radio" id="{{ offset }}" name="{{ include.offset }}" value="3">
+        {% capture offset %}{{ offset | plus: 1 }}{% endcapture %}
+        <input type="radio" id="{{ offset }}" name="{{ question }}" value="3">
       </div>
       <div class="answer-label">
         <label for="{{ offset }}" class="">{{ include.option3 }}</label>
