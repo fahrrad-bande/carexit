@@ -562,7 +562,7 @@ ul.nav.navbar-nav.main-nav {
         font-size: 13pt
     }
     .navbar-default .navbar-nav.main-nav>li:hover {
-        background-color: #17c28c
+        background-color: #ff8300
     }
     ul.main-nav {
         margin: 0
@@ -706,13 +706,13 @@ input[type='checkbox'] {
 
 @media (min-width:768px) {
     #progressbar li {
-        width: 15.5%
+        width: 18%
     }
 }
 
 @media (max-width:767px) {
     #progressbar li {
-        width: 13.5%
+        width: 17.5%
     }
 }
 

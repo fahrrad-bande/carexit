@@ -8,8 +8,21 @@
           <iframe width="560" height="315" src="https://www.youtube.com/embed/eGfaEeWOtf8" frameborder="0" allowfullscreen></iframe>
         </div>
         <h1>{{ include.title }}</h1>
-        <img src="{{ "/assets/img/banner.png" | prepend: site.github.url }}" style="margin: 50px">
       </div>
     </div>
+
+    {% if include.claim != '' %}
+    <div class="row">
+      <div class="hidden-xs col-sm-12" style="text-align: center">
+        <div class="banner_img">
+            <a href="#test">
+            <img src="{{ "/assets/img/banner.png" | prepend: site.github.url }}">
+            <h3>{{ include.claim }}</h3>
+          </a>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
   </div>
 </section>
