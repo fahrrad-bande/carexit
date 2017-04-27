@@ -27,7 +27,7 @@ Das Gute ist: Als Autofahrer kennen Sie die Regeln schon. Ersetzen Sie den Blink
 ***
 
 ### Wetterfest werden
-Es gibt kein schlechtes Wetter,... Das sagt sich leicht. In der kühlen Jahreszeit ist Radfahren eine Herausforderung. Wir empfehlen: Fangen Sie im Sommer an und tasten Sie sich langsam heran. Im Herbst wird der Regenradar Ihr bester Freund und irgendwann gesellt sich eine Wollmütze zu Regenjacke und -hose.
+Es gibt kein schlechtes Wetter,... Das sagt sich leicht. In der kühlen Jahreszeit ist Radfahren eine Herausforderung. Wir empfehlen: Fangen Sie im Sommer an und tasten Sie sich langsam heran. Im Herbst wird das Regenradar Ihr bester Freund und irgendwann gesellt sich eine Wollmütze zu Regenjacke und -hose.
 
 <a href="http://www.rad-spannerei.de/blog/2014/09/08/radfahren-und-regenwahrscheinlichkeit/" target="_blank">rad-spannerei.de</a>
 
