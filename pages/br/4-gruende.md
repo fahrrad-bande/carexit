@@ -27,14 +27,14 @@ Pedalar é simplesmente divertido. O exercício e o vento no seu cabelo cria a s
 ### Mais rápido até o destino
 Nas cidades, distâncias maiores que 5 quilômetros podem ser feitas mais rápido de bike do que de carro. Mas para longas distâncias a mudança também vale a pena: ciclistas nunca ficam presos no trânsito, podem encurtar distâncias e ele(a)s sempre encontram espaço para estacionar a bicicleta imediatamente. Veja outros motivos por quê você vai querer pedalar nesse vídeo.
 
-<a href="https://www.youtube.com/watch?v=HWLIcTl2ork" target="_blank">youtube.com/a>
+<a href="https://www.youtube.com/watch?v=HWLIcTl2ork" target="_blank">youtube.com</a>
 
 ***
 
 ### Academia grátis
 “Todo dia uma pedalada e o médico não precisa fazer nada...” Aqueles que pedalam regularmente na idade adulta reduzem pela metade o risco de obesidade, doenças do coração ou diabetes. Meia hora é suficiente para isso. Saia do seu carro, vá de bike e fique em forma. Mais informações aqui.
 
-<a href="http://vadebike.org/2008/08/pedalar-no-transito-nao-faz-mal-para-a-saude/" target="_blank">vadebike.org/a>
+<a href="http://vadebike.org/2008/08/pedalar-no-transito-nao-faz-mal-para-a-saude/" target="_blank">vadebike.org/<a>
 
 ***
 
@@ -42,7 +42,7 @@ Nas cidades, distâncias maiores que 5 quilômetros podem ser feitas mais rápid
 Pedalar tem uma pegada ecológica bem pequena. Isso faz de todo(a) ciclista um(a) ambientalista. Nós todos queremos o meio ambiente preservado e o ar limpo para respirar – ao renunciar o seu carro você contribui para um futuro habitável. 
 
 
-<a href="http://www.uniaodeciclistas.org.br/posicionamentos/a-bicicleta-e-os-ods/" target="_blank">uniaodeciclistas.org.br/a>
+<a href="http://www.uniaodeciclistas.org.br/posicionamentos/a-bicicleta-e-os-ods/" target="_blank">uniaodeciclistas.org.br/<a>
 
 ***
 
