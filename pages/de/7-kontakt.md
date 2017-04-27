@@ -28,6 +28,8 @@ Sie sind bereit für Ihren persönlichen **car**EXIT, haben Fragen, Kritik oder 
 Presseanfragen gehen bitte an:
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
+<a href="https://www.flickr.com/photos/bundjugendberlin/sets/72157679864484094" target="_blank">Download carEXIT Logo un Bilder © Fahrrad Bande</a>
+
 <a href="http://mitradgelegenheit.org/wp-content/uploads/2016/03/Logos.zip" target="_blank">Download Logoset als .zip © Fahrrad Bande</a>
 
 
