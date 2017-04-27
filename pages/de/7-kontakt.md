@@ -10,7 +10,9 @@ permalink: /
 ---
 
 ### Über Uns
-**car**EXIT ist ein Projekt der <a href="http://mitradgelegenheit.org/" target="_blank">FahrradBande</a> aus Berlin.
+**car**EXIT ist ein Projekt der FahrradBande aus Berlin.
+
+<a href="http://mitradgelegenheit.org/" target="_blank">FahrradBande</a>
 
 [Impressum & Rechtliches](impressum.html)
 
