@@ -11,7 +11,7 @@ permalink: /
 ---
 
 ### Günstiger unterwegs
-Fahrradfahren kostet nicht viel. Investieren Sie in ein gutes Schloss und Sie sparen dauerhaft bares Geld. Statt sich über Benzinpreise zu ärgern, fahren Sie einfach los. Und auch vierstellige Repararturkosten gehören der Vergangenheit an.
+Fahrradfahren kostet nicht viel. Investieren Sie in ein gutes Schloss und Sie sparen dauerhaft bares Geld. Statt sich über Benzinpreise zu ärgern, fahren Sie einfach los. Und auch vierstellige Reparaturkosten gehören der Vergangenheit an.
 
 <a href="http://www.zukunft-mobilitaet.net/2487/strassenverkehr/die-wahren-kosten-eines-kilometers-autofahrt/" target="_blank">zukunft-mobilitaet.net</a>
 
@@ -32,7 +32,7 @@ Strecken bis zu 5 Kilometern legen deutsche Großstädter radelnd schneller zur�
 ***
 
 ### Kostenlose Fitness
-"A bike ride a day keeps, the doctor away…"
+"A bike ride a day, keeps the doctor away…"
 Wer im Erwachsenenalter regelmäßig Rad fährt, halbiert das Risiko für Fettleibigkeit, Herzkrankheiten oder Diabetes. Dafür reicht schon eine halbe Stunde täglich. Steigen Sie um und bleiben Sie fit!
 
 <a href="http://www.adfc.de/gesundheit/gesund-bleiben/die-effekte-regelmaessigen-radfahrens/seite-1-die-effekte-regelmaessigen-radfahrens-8211-uebersicht" target="_blank">adfc.de</a>
