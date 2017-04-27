@@ -10,7 +10,9 @@ permalink: /
 ---
 
 ### Disclaimer
-**car**EXIT is project of the [FahrradBande](http://mitradgelegenheit.org/) Berlin. The Greek translation was done by Elli Skliva.
+**car**EXIT is project of the FahrradBande Berlin. The Greek translation was done by Elli Skliva.
+
+<a href="http://mitradgelegenheit.org/" target="_blank">FahrradBande</a>
 
 [στοιχεία](/de/impressum.html)
 
