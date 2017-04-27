@@ -26,7 +26,7 @@ Vom Fahrradsattel aus können Sie sich sehr viele Sportarten erschließen.  Vers
 ### Dinge bewegen
 Fortgeschrittene schrecken auch vorm Möbeltransport nicht zurück. Mit einem Lastenrad bewegen Sie größere Einkäufe unkompliziert nach Hause. Bei Bedarf können Sie sich einfach ein Lastenrad ausleihen.
 
-<a href="http://cargobike.jetzt/sharing-angebote/" target="_blank">corgobike.jetzt</a>
+<a href="http://cargobike.jetzt/sharing-angebote/" target="_blank">cargobike.jetzt</a>
 
 ***
 
