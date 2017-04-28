@@ -10,9 +10,15 @@ permalink: /
 ---
 
 ### Über Uns
-**car**EXIT ist ein Projekt der FahrradBande aus Berlin.
+**car**EXIT ist ein Projekt der **FahrradBande** der BUNDjugend Berlin in Zusammenarbeit mit Meerkat Planet und Reclaim The Streets.
 
 <a href="http://mitradgelegenheit.org/" target="_blank">FahrradBande</a>
+
+<a href="https://www.bundjugend-berlin.de/" target="_blank">BUNDjugend Berlin</a>
+
+<a href="http://www.meerkatplanet.com/" target="_blank">Meerkat Planet</a>
+
+<a href="https://www.facebook.com/reclaimthestreetsberlin/" target="_blank">Reclaim The Streets</a>
 
 [Impressum & Rechtliches](impressum.html)
 
