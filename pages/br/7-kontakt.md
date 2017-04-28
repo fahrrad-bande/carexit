@@ -20,8 +20,11 @@ O **car**EXIT é um projeto da FahrradBande da Alemanha e traduzido/adaptado par
 
 ***
 
-### Kontakt
-For more information about **car**EXIT International and the **FahrradBande** please contact:
+### Contato
+Para mais informações sobre a **car**EXIT Brasil e a **BIKE ANJO**, por favor nos contate:
+<a href="mailto:{{ info@bikeanjo.org }}">{{ info@bikeanjo.org }}</a>
+
+Para mais informações sobre a **car**EXIT Internacional e a **FahrradBande**, por favor nos contate:
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 
