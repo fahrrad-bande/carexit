@@ -9,18 +9,18 @@ permalink: de/impressum.html
 **[zurück](http://carexit.org/)**
 
 ### Impressum
-**car**EXIT ist ein Projekt der [FahrradBande](http://mitradgelegenheit.org/) aus Berlin.der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin ([BUNDjugend-Berlin.de](https://www.bundjugend-berlin.de/)). Angaben gemäß § 5 TMG:
+**car**EXIT ist ein Projekt der [**FahrradBande**](http://mitradgelegenheit.org/) aus Berlin.der Jugend im Bund für Umwelt und Naturschutz, Landesverband Berlin ([BUNDjugend-Berlin.de](https://www.bundjugend-berlin.de/)). Angaben gemäß § 5 TMG:
 
 BUNDjugend Berlin, Jugend im Bund für Umwelt und Naturschutz Berlin e.V., Erich-Weinert-Straße 82, 10439 Berlin
 
 Tel.: 030 – 392 82 80, E-Mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-Die Domain www.carEXIT.org wird vom Landesprogramm [jugendnetz-berlin](http://www.jugendnetz-berlin.de/) kostenlos gehostet.
+Die Domain www.**car**EXIT.org wird vom Landesprogramm [jugendnetz-berlin](http://www.jugendnetz-berlin.de/) kostenlos gehostet.
 
 ***
 
 ### Cycling Unites
-carEXIT ist ein Projekt nach einer Idee der [FahrradBande](http://mitradgelegenheit.org/).
+**car**EXIT ist ein Projekt nach einer Idee der [FahrradBande](http://mitradgelegenheit.org/).
 
 Die Kampagnen-Videos wurden von [Meerkat Planet](http://www.meerkatplanet.com/) erstellt. Design und Layout wurden von [StayLoud](http://www.stayloud.net/) entworfen.
 
@@ -28,7 +28,7 @@ Die Kampagnen-Videos wurden von [Meerkat Planet](http://www.meerkatplanet.com/) 
 
 Wir ziehen den Hut vor allen [Berliner Fahrradinitiativen](http://www.fahrrad-initiativen.de/).
 
-IF THE KIDS RIDE UNITED THEN WE'LL NEVER BE DIVIDED!
+**IF THE KIDS RIDE UNITED THEN WE'LL NEVER BE DIVIDED!**
 
 ***
 
@@ -38,4 +38,4 @@ Der Inhalt der Webseiten der BUNDjugend Berlin wurde sorgfältig geprüft und be
 ***
 
 ### Haftung für Links
-Es wird darauf hingewiesen, dass Links von den Seiten der BUNDjugend Berlin zu externen Anbietern führen, sobald der Rahmen von www.carEXIT.org verlassen wird und sich ein neues Browserfenster öffnet oder die Seiten gesondert gekennzeichnet sind. Für die Richtigkeit des Inhalts der externen Seiten übernimmt die BUNDjugend Berlin keine Verantwortung, vielmehr unterliegen sie der Haftung der jeweiligen Anbieter*innen. Dies gilt auch für die Rechtmäßigkeit oder die Erfüllung von Urheberrechtsbestimmungen der verlinkten Seiten sowie für deren Aktualität. Durch eine Verlinkung auf externe Seiten macht sich die BUNDjugend Berlin diese nicht zu Eigen. Vielmehr dienen die Links und Inhalte dem Informationsaustausch und begründen keine geschäftlichen Beziehungen irgendeiner Art. Die BUNDjugend Berlin distanziert sich ausdrücklich von eventuell rechtswidrigen Inhalten der verlinkten Seiten. Der Inhalt der Seiten wird nur zum Zeitpunkt der Aufnahme geprüft.
+Es wird darauf hingewiesen, dass Links von den Seiten der BUNDjugend Berlin zu externen Anbietern führen, sobald der Rahmen von www.**car**EXIT.org verlassen wird und sich ein neues Browserfenster öffnet oder die Seiten gesondert gekennzeichnet sind. Für die Richtigkeit des Inhalts der externen Seiten übernimmt die BUNDjugend Berlin keine Verantwortung, vielmehr unterliegen sie der Haftung der jeweiligen Anbieter*innen. Dies gilt auch für die Rechtmäßigkeit oder die Erfüllung von Urheberrechtsbestimmungen der verlinkten Seiten sowie für deren Aktualität. Durch eine Verlinkung auf externe Seiten macht sich die BUNDjugend Berlin diese nicht zu Eigen. Vielmehr dienen die Links und Inhalte dem Informationsaustausch und begründen keine geschäftlichen Beziehungen irgendeiner Art. Die BUNDjugend Berlin distanziert sich ausdrücklich von eventuell rechtswidrigen Inhalten der verlinkten Seiten. Der Inhalt der Seiten wird nur zum Zeitpunkt der Aufnahme geprüft.
