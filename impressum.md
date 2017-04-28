@@ -1,6 +1,7 @@
 ---
 layout: impressum
 language: de
+section_layout: section_two
 section_class: blue
 permalink: de/impressum.html
 ---
