@@ -1,6 +1,7 @@
 ---
 layout: impressum
 language: de
+section_class: blue
 permalink: de/impressum.html
 ---
 
@@ -19,7 +20,7 @@ Die Domain www.carEXIT.org wird vom Landesprogramm [jugendnetz-berlin](http://ww
 ### Cycling Unites
 carEXIT ist ein Projekt nach einer Idee der [FahrradBande](http://mitradgelegenheit.org/).
 
-Die Kampagnen-Videos wurden zu von [Meerkat Planet](http://www.meerkatplanet.com/) erstellt. Design und Layout wurden von [StayLoud](http://www.stayloud.net/) entworfen.
+Die Kampagnen-Videos wurden von [Meerkat Planet](http://www.meerkatplanet.com/) erstellt. Design und Layout wurden von [StayLoud](http://www.stayloud.net/) entworfen.
 
 1000Dank an Alma, Alma, Andreas, Christian, Katherina, Maja, Martina, Santiago, Stefan, Steffanie, Timo, Tini, Tobias. Ohne euch wäre das alles nie möglich gewesen.
 
