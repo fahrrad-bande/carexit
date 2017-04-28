@@ -32,7 +32,7 @@ Sie sind bereit für Ihren persönlichen **car**EXIT, haben Fragen, Kritik oder 
 
 ### Presse
 Presseanfragen gehen bitte an:
-<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+<a href="mailto:presse@carexit.org">presse@carexit.org</a>
 
 <a href="https://www.flickr.com/photos/bundjugendberlin/sets/72157679864484094" target="_blank">Download carEXIT Bilder © Fahrrad Bande</a>
 
