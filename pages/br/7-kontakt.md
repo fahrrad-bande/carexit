@@ -10,7 +10,7 @@ permalink: /
 ---
 
 ### Disclaimer
-O **car**EXIT é um projeto da FahrradBande da Alemanha e traduzido/adaptado para o português pelo Bike Anjo.
+O **car**EXIT é um projeto da **FahrradBande** da Alemanha e traduzido/adaptado para o português pelo **Bike Anjo**.
 
 <a href="http://mitradgelegenheit.org/" target="_blank">FahrradBande</a>
 
@@ -21,7 +21,7 @@ O **car**EXIT é um projeto da FahrradBande da Alemanha e traduzido/adaptado par
 ***
 
 ### Contato
-Para mais informações sobre a **car**EXIT Brasil e a **BIKE ANJO**, por favor nos contate:
+Para mais informações sobre a **car**EXIT Brasil e a **Bike Anjo**, por favor nos contate:
 <a href="mailto:contato@bikeanjo.org">contato@bikeanjo.org</a>
 
 Para mais informações sobre a **car**EXIT Internacional e a **FahrradBande**, por favor nos contate:
