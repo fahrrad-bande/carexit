@@ -44,3 +44,6 @@ Mit dem Fahrrad lassen sich auch längere Strecken problemlos zurücklegen. Unse
 Sie können noch nicht radfahren? Das ist kein Problem. Sie werden erstaunt sein, wie gerne Ihre Freunde oder der ADFC Ihnen dabei helfen. Suchen Sie sich einen geduldigen Lehrer und legen Sie los. Und genießen Sie es, wieder einmal etwas das erste Mal im Leben zu machen.
 
 <a href="http://www.adfc.de/ueber-uns/adfc-vor-ort/adfc-vor-ort" target="_blank">adfc.de</a>
+
+<a href="http://radfahrlehrer.de/" target="_blank">radfahrlehrer.de</a>
+
