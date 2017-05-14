@@ -3,7 +3,7 @@ link_title: Contacts
 anchor_id: contact
 title:
 order: 7
-language: sr
+language: rs
 section_layout: section_two
 section_class: blue
 permalink: /

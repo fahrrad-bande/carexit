@@ -3,7 +3,7 @@ link_title: prebaciti
 anchor_id: how-to
 title: Kako se prebaciti?
 order: 5
-language: sr
+language: rs
 section_layout: section_six
 permalink: /
 ---

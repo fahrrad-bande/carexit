@@ -23,6 +23,7 @@ languages:
   - de
   - br
   - gr
+  - rs
 
 # Build settings
 markdown: kramdown

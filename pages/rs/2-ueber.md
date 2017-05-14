@@ -2,7 +2,7 @@
 link_title: carEXIT?
 anchor_id: about
 order: 2
-language: sr
+language: rs
 section_layout: section_three
 section_class: blue
 permalink: /

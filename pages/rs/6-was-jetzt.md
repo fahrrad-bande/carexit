@@ -3,7 +3,7 @@ link_title: i šta sada?
 anchor_id: fahrradwelt
 title: Exit je gotov i šta sada?
 order: 6
-language: sr
+language: rs
 section_layout: section_six
 section_class: bright
 permalink: /
