@@ -8,17 +8,17 @@ section_class: blue
 permalink: /
 ---
 
-## Τί είναι το **car**Exit;
-Βαρεθήκατε το μποτιλιάρισμα; Απελπίζεστε με τις τιμές της βενζίνης; Τότε ρίξτε μία ματιά στο **car**EXIT – το εισιτήριο στον μαγικό κόσμο του ποδηλάτου.
+## Šta je **car**Exit?
+Ne želiš više da budeš zaglavljen u saobraćajnim gužvama? Mnogo ti je da stalno plaćaš za benzin? Koristi **car**EXIT - tvoju ulaznicu u divni svet bicikla. 
 
-Το **car**EXIT παρέχει υποστήριξη σε όσους θέλουν να αφήσουν το αυτοκίνητο και να ξεκινήσουν να χρησιμοποιούν το ποδήλατο ως μέσο μετακίνσης.
-
-***
-
-## Γιατί **car**Exit ;
-Παίρνουμε 95% των αποφάσεών μας υποσυνείδητα. Το αυτοκίνητο είναι μία συνήθεια που θεωρούμε αυτονόητη, η οποία όμως έχει πολλές αρνητικές επιπτώσεις για το άτομο και την κοινωνία. Θέλουμε να υποστηρίξουμε αυτούς που θέλουν να εγκαταλείψουν αυτή τη συνήθεια και να υιοθετήσουν το ποδήλατο ως μεταφορικό τους μέσο. Καθώς ξέρουμε καλά πόσο δύσκολο είναι αυτό, δημιουργήσαμε την πρωτοβουλία **car**EXIT.
+**car**EXIT ti pomaže da izađeš iz kola i sedneš na bajs. 
 
 ***
 
-## Τί προσφέρει το **car**Exit;
-Το **car**EXIT παρέχει τα απαραίτητα επιχειρήματα και τα καθοριστικά βήματα για την μετάβαση από το αυτοκίνητο στην ποδηλασία. Εδώ θα βρείτε όλες τις πληροφορίες σχετικά με το ποδήλατο ως μοντέρνο και ευεργετικό μέσο μετακίνησης καθώς και πολύτιμες συμβουλές για τα πρώτα βήματα, ή καλύτερα, την πρώτη πεταλιά.
+## Šta ti **car**EXIT nudi?
+95 % odluka koje donosimo su podsvesne. Vožnja auta je navika koju retko preispitujemo, a ima mnogo nepovoljnih posledica kako na pojedinca, tako i na društvo. Želimo da pomognemo ljudima koji bi hteli da se reše te navike i pređu na bicikl. S obzirom da znamo kako to nije nimalo lako, pokrenuli smo inicijativu **car**EXIT.
+
+***
+
+## Šta ti **car**EXIT nudi?
+**car**EXIT nudi neophodne argumente i početne tačke za uspešnu promenu prevoznog sredstva. Ovde možeš naučiti sve o biciklu koji može da ponudi moderan i veseo način da se stigne od tačke A do tačke B, kao i da dobiješ korisne savete o prvim koracima na biciklu. 
