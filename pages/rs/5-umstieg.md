@@ -16,7 +16,7 @@ Ukoliko nemate bicikl u garaži, onda produžite do: Kupovina bicikla je zabavna
 ***
 
 ### Smanjite strah
-Rizik od saobraćajne nesreće je niži na biciklu nego u kolima. Na početku, odaberite neku maršrutu koja ima dobre biciklističe staze ili malo saobraćaja. Pronađite stil koji Vama odgovara i vozite se sa nekim - to je još zabavnije. 
+Rizik od saobraćajne nezgode je niži na biciklu nego u kolima. Na početku, odaberite neku maršrutu koja ima dobre biciklističe staze ili malo saobraćaja. Pronađite stil koji Vama odgovara i vozite se sa nekim - to je još zabavnije. 
 
 <a href="http://www.nsbi.org.rs/vesti/akcije-aktivnosti/angela-merkel-%C5%A1-vi%C5%A1e-biciklista-su-bezbedniji" target="_blank">nsbi.org.rs</a>
 
