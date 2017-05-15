@@ -19,7 +19,7 @@ permalink: /
 ***
 
 ### Biciklistički sportovi
-iciklizam nudi širok dijapazon sportova. Ne morate da idete na Tour de France. Probajte polo na biciklu, umetnički biciklizam, fudbal na biciklu, biciklizam ruta ili BMX. Zapanjiće Vas raznolikost. 
+Biciklizam nudi širok dijapazon sportova. Ne morate da idete na Tour de France. Probajte polo na biciklu, umetnički biciklizam, fudbal na biciklu, biciklizam ruta ili BMX. Zapanjiće Vas raznolikost. 
 
 ***
 
