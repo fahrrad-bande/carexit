@@ -20,6 +20,7 @@ permalink: /
 
 ### Contact
 For more information about **car**EXIT Serbia and the **Novosadska biciklistička inicijativa** please contact:
+
 <a href="http://www.nsbi.org.rs/" target="_blank">Novosadska biciklistička inicijativa</a>
 
 For more information about **car**EXIT International and the **FahrradBande** please contact:
