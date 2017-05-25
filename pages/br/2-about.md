@@ -17,7 +17,7 @@ Então use **car**EXIT – seu ingresso para o maravilhoso mundo da bike.
 
 ***
 
-## Porque **car**Exit?
+## Por que **car**Exit?
 95% das suas decisões são feitas subconscientemente. Dirigir é um hábito que nós dificilmente questionamos, mas tem muitas consequências negativas para o indivíduo e para a sociedade. Nós ajudamos pessoas que queiram abandonar este hábito e trocar pela bike. Como sabemos o quanto isso é difícil, nós lançamos a iniciativa **car**EXIT.
 
 ***
