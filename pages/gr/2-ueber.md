@@ -1,5 +1,5 @@
 ---
-link_title: carEXIT?
+link_title: carEXIT;
 anchor_id: about
 order: 2
 language: gr
