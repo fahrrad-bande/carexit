@@ -116,6 +116,34 @@ body {
     padding: 30px 0
 }
 
+.row-items svg {
+  fill: #f7a600;
+  width: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+svg .st0 {
+  fill:none;
+  stroke:#f7a600;
+  stroke-width:3;
+  stroke-miterlimit:10;
+}
+
+
+section.bright svg {
+  fill: #17558C;
+}
+
+section.bright .st0 {
+  stroke: #17558C;
+}
+
+.row-items h3 {
+  margin-top: 5px;
+}
+
 .landing-container {
     min-height: 100vh;
     margin-top: 10px

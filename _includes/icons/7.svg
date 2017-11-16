@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 124.7 124.7" style="enable-background:new 0 0 124.7 124.7;" xml:space="preserve">
+<style type="text/css">
+	.st2{fill:none;stroke:#f7a600;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<circle class="st0" cx="62.4" cy="62.4" r="56.7"/>
+<g>
+	<line class="st2" x1="44.5" y1="42.5" x2="50.5" y2="42.5"/>
+	<g>
+		<circle class="st2" cx="86.5" cy="68.3" r="13.9"/>
+			<ellipse transform="matrix(2.854401e-03 -1 1 2.854401e-03 -30.2031 106.3404)" class="st2" cx="38.2" cy="68.3" rx="13.9" ry="13.9"/>
+			<ellipse transform="matrix(2.854401e-03 -1 1 2.854401e-03 -12.4032 129.4822)" class="st2" cx="58.7" cy="71" rx="3.3" ry="3.3"/>
+		<line class="st2" x1="55.4" y1="70.4" x2="38.6" y2="68.3"/>
+		<line class="st2" x1="52.8" y1="49.1" x2="76.6" y2="49.1"/>
+		<line class="st2" x1="77.2" y1="51.1" x2="61.5" y2="68.3"/>
+		<polyline class="st2" points="54.8,42.5 49.5,42.5 58.1,67.7"/>
+		<path class="st2" d="M83.2,49.1h1.3c3.3,0,3.3-3.3,3.3-3.3c0-3.3-3.3-3.3-3.3-3.3h-1.3h-5.3l-2,2.6l2,6.6c0,0,4.3,13.2,8.6,16.5"/>
+		<line class="st2" x1="38.6" y1="68.3" x2="52.6" y2="49.3"/>
+		<line class="st2" x1="60.3" y1="73.9" x2="63.4" y2="78.9"/>
+		<line class="st2" x1="61.4" y1="79.6" x2="66" y2="79.6"/>
+	</g>
+</g>
+</svg>

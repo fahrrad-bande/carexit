@@ -19,6 +19,5 @@ Make sure you've ruby + bundler installed. Then execute:
 ```
 bundle install --path=vendor/bundle
 bundle exec jekyll serve
-open 127.0.0.1:4000
+open http://127.0.0.1:4000
 ```
-

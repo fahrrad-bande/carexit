@@ -23,7 +23,12 @@
     {% assign question_split = question | split: splitby %}
     {% assign title = question_split | first | append: splitby %}
     {% assign body =  question_split | last %}
+    {% assign icon_number = include.page.order | minus: 4 | times: 6 | plus: forloop.index %}
+    {% assign icon =  "icons/" | append: icon_number | append: ".svg" %}
     <div class="col-sm-4">
+      {% if include.page.order < 7 %}
+        {% include {{ icon }} %}
+      {% endif %}
       {{ title }}
       {{ body }}
       {% if forloop.index == 3 %}
