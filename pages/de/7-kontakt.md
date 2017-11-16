@@ -2,6 +2,7 @@
 link_title: Kontakt
 anchor_id: kontakt
 title:
+title:
 order: 7
 language: de
 section_layout: section_six
@@ -37,5 +38,3 @@ Presseanfragen gehen bitte an:
 <a href="https://www.flickr.com/photos/bundjugendberlin/sets/72157679864484094" target="_blank">Download carEXIT Bilder © Fahrrad Bande</a>
 
 <a href="http://mitradgelegenheit.org/wp-content/uploads/2016/03/Logos.zip" target="_blank">Download Logoset als .zip © Fahrrad Bande</a>
-
-

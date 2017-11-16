@@ -1,6 +1,7 @@
 ---
 link_title: Sobre carEXIT
 anchor_id: about
+title:
 order: 2
 language: br
 section_layout: section_three
