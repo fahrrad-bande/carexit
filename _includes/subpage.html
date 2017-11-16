@@ -1,7 +1,7 @@
 <section id="s-{{ include.page.anchor_id }}" class="{{ include.page.section_class }}">
     <a id="{{ include.page.anchor_id }}" class="anchor"></a>
     <div class="container landing-container">
-      {% if include.page.title %}
+      {% if include.page.title != "" %}
         <div class="row">
             <div class="col-xs-12">
                 <h1>{{ include.page.title }}</h1>

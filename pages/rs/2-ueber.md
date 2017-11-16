@@ -1,6 +1,7 @@
 ---
 link_title: carEXIT?
 anchor_id: about
+title:
 order: 2
 language: rs
 section_layout: section_three
@@ -9,9 +10,9 @@ permalink: /
 ---
 
 ## Šta je **car**Exit?
-Ne želiš više da budeš zaglavljen u saobraćajnim gužvama? Mnogo ti je da stalno plaćaš za benzin? Koristi **car**EXIT - tvoju ulaznicu u divni svet bicikla. 
+Ne želiš više da budeš zaglavljen u saobraćajnim gužvama? Mnogo ti je da stalno plaćaš za benzin? Koristi **car**EXIT - tvoju ulaznicu u divni svet bicikla.
 
-**car**EXIT ti pomaže da izađeš iz kola i sedneš na bajs. 
+**car**EXIT ti pomaže da izađeš iz kola i sedneš na bajs.
 
 ***
 
@@ -21,4 +22,4 @@ Ne želiš više da budeš zaglavljen u saobraćajnim gužvama? Mnogo ti je da s
 ***
 
 ## Šta ti **car**EXIT nudi?
-**car**EXIT nudi neophodne argumente i početne tačke za uspešnu promenu prevoznog sredstva. Ovde možeš naučiti sve o biciklu koji može da ponudi moderan i veseo način da se stigne od tačke A do tačke B, kao i da dobiješ korisne savete o prvim koracima na biciklu. 
+**car**EXIT nudi neophodne argumente i početne tačke za uspešnu promenu prevoznog sredstva. Ovde možeš naučiti sve o biciklu koji može da ponudi moderan i veseo način da se stigne od tačke A do tačke B, kao i da dobiješ korisne savete o prvim koracima na biciklu.
