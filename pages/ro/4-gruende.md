@@ -1,6 +1,6 @@
 ---
-link_title: Ai îndoieli?
-anchor_id: gruende
+link_title: Îndoieli
+anchor_id: Îndoieli
 title: Ai îndoieli?
 subtitle: Iată șase motive bune să carEXIT
 order: 4
