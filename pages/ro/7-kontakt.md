@@ -22,7 +22,8 @@ permalink: /
 
 ### Contacte
 Pentru mai multe informații despre **car**EXIT și **HaicuBicla**, te rugăm trimite un mesaj la: 
-<a href="mailto:oana@haicubicla.ro>Oana</a> sau <a href="mailto:catalin@haicubicla.ro>Catalin</a>  
+<a href="mailto:oana@haicubicla.ro>Oana</a>
+<a href="mailto:catalin@haicubicla.ro>Catalin</a>  
 
 Pentru mai multe informații despre **car**EXIT International și **FahrradBande**, te rugăm trimite un mesaj la: 
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
