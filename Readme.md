@@ -14,10 +14,9 @@ The page is generated with the help of https://jekyllrb.com. Deployment is curre
 
 ## Development
 
-Make sure you've ruby + bundler installed. Then execute:
+Make sure you've [docker](https://www.docker.com/) installed. Then execute:
 
 ```
-bundle install --path=vendor/bundle
-bundle exec jekyll serve
+make
 open http://127.0.0.1:4000
 ```
