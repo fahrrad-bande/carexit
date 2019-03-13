@@ -1,7 +1,7 @@
 ---
-link_title: Ce este carEXIT
+link_title: Despre carEXIT
 anchor_id: about
-title:
+title: Despre carEXIT
 order: 2
 language: ro
 section_layout: section_three
