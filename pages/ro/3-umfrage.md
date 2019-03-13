@@ -1,5 +1,5 @@
 ---
-link_title: Teste
+link_title: Test
 anchor_id: test
 title: Ce-ți lipsește dacă nu ești cu mașina?
 subtitle: Descoperă cât ești de limitat înainte de carEXIT.
