@@ -1,6 +1,6 @@
 ---
-link_title: carEXIT
-anchor_id: umstieg
+link_title: Ieșire
+anchor_id: Ieșire
 title: Cum are loc carEXITul?
 order: 5
 language: ro
