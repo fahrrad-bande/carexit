@@ -12,7 +12,7 @@ permalink: /
 ### Disclaimer
 **car**EXIT este protejat de **FahrradBande** Berlin. Această traducere a fost făcută de bicicliștii de la **HaicuBicla**.
 
-<a href="http://mitradgelegenheit.org/" target="_blank">FahrradBande</a>
+<a href="http://mitradgelegenheit.org/" target="_blank">FahrradBande</a> 
 
 <a href="https://www.facebook.com/HaicuBicla/" target="_blank">HaicuBicla</a>
 
@@ -22,7 +22,7 @@ permalink: /
 
 ### Contacte
 Pentru mai multe informații despre **car**EXIT și **HaicuBicla**, te rugăm trimite un mesaj la: 
-<a href="mailto:oana@haicubicla.ro">Oana</a>
+<a href="mailto:oana@haicubicla.ro">Oana</a> sau
 <a href="mailto:catalin@haicubicla.ro">Catalin</a>  
 
 Pentru mai multe informații despre **car**EXIT International și **FahrradBande**, te rugăm trimite un mesaj la: 
